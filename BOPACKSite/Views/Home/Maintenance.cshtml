@@ -1,0 +1,337 @@
+﻿@{
+    Layout ="~/Views/Shared/_LayoutMaintenance.cshtml";
+}
+
+@section scripts {
+
+    <script type="text/javascript">
+
+        // 0. //
+        //<![CDATA[
+        var theForm = document.forms['Form'];
+        if (!theForm) {
+            theForm = document.Form;
+        }
+        function __doPostBack(eventTarget, eventArgument) {
+            if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+                theForm.__EVENTTARGET.value = eventTarget;
+                theForm.__EVENTARGUMENT.value = eventArgument;
+                theForm.submit();
+            }
+        }
+        //]]>
+
+        // 1. //
+        //<![CDATA[
+        /*
+        Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+        */
+        //]]>
+
+        // 2. //
+        jQuery(function ($) {
+            $('#Ctl_Email_28313').inputDefault({ ModuleId: 28313 });
+        });
+
+        // 3. //
+        function validationRecaptcha28313() {
+            var b = true;
+            jQuery.ajax({
+                async: false,
+                url: "/DesktopModules/DNNGo_PowerForms/ajaxValidate.aspx",
+                cache: false,
+                data: "ModuleID=28313&type=AjaxCustomCaptcha&fieldValue=" + jQuery("#InputCaptcha28313").val(),
+                success: function (Result) {
+                    if (Result != "true") {
+                        jQuery(".form_div_28313 #png_captcha28313").attr("src", "../../../DesktopModules/DNNGo_PowerForms/Resource/images/no.png").show();
+                    } else {
+                        //jQuery(".form_div_28313 #png_captcha28313").attr("src","/DesktopModules/DNNGo_PowerForms/Resource/images/yes.png").show();
+                        jQuery(".form_div_28313 #png_captcha28313").hide();
+                    }
+                    if (Result != "true") { b = false; }
+                }
+            });
+
+            return b;
+        }
+
+        function validationFile28313() {
+            var b = true;
+            jQuery(".form_div_28313 input[type='file']").filter(".ajaxUpload").each(function (i) {
+                var fileid = $(this).attr("id");
+                jQuery.ajax({
+                    async: false,
+                    url: "/DesktopModules/DNNGo_PowerForms/ajaxValidate.aspx",
+                    cache: false,
+                    data: "ModuleID=28313&type=AjaxCustomUpload&fieldValue=" + jQuery(this).val(),
+                    success: function (Result) {
+                        if (Result != "true") {
+                            jQuery(".form_div_28313 #png_upload_" + fileid).attr("src", "../../../DesktopModules/DNNGo_PowerForms/Resource/images/no.png").show();
+                        } else {
+                            //jQuery(".form_div_28313 #png_upload_"+ fileid).attr("src","/DesktopModules/DNNGo_PowerForms/Resource/images/yes.png").show();
+                            jQuery(".form_div_28313 #png_upload_" + fileid).hide();
+                        }
+                        if (Result != "true") { b = false; }
+                    }
+                });
+            });
+            return b;
+        }
+
+        jQuery(function ($) {
+            var sisForm = $(".form_div_28313").sisyphus({ customKeyPrefix: 'bg', timeout: 0, autoRelease: true });
+            $("#Form").submit(function () { sisForm.manuallyReleaseData(); });
+
+            $("input.other_textbox").bind("keyup change", function () {
+                var forid = "#" + $(this).data("forid");
+                $(forid).val($(forid).data("value") + $(this).val());
+            });
+
+
+            tinymce.init({
+                selector: "textarea.tinymce",
+                entity_encoding: "raw",
+                convert_urls: false,
+                menubar: false
+            });
+
+            $(".form_div_28313 input[lang='Submit']").click(function () {
+
+                if (!validationFile28313()) {
+                    return false;
+                }
+            });
+            $("#ImageCheck28313").click(function () { $("#InputCaptcha28313").val('') });
+        });
+
+        // 4. //
+        jQuery(function (q) {
+            q(".form_div_28313").validationEngine({
+                promptPosition: 'topRight',
+                ajaxFormValidationURL: '/DesktopModules/DNNGo_PowerForms/ajaxValidate.aspx?ModuleID=28313'
+            });
+
+            q(".form_div_28313 input[lang='Submit']").click(function () {
+
+                if (!$('.form_div_28313').validationEngine('validate')) {
+                    return false;
+                }
+            });
+
+            q(".form_div_28313 input[lang='reset']").click(function () {
+                $('.form_div_28313').validationEngine('hideAll');
+            });
+
+            q(".form_div_28313 .jquery-datepick").datepick({ dateFormat: 'mm/dd/yyyy' });
+        });
+
+        // 5. //
+        $(document).ready(
+            function () {
+                $("#countdown").countdown({
+                    date: "30 April 2018 00:00:00",
+                    format: "on",
+                    time_end: "off"
+                },
+                function () {
+                    // callback function
+                }
+            );
+        });
+        
+    </script>
+
+}
+
+<form method="post" action="#" id="Form" enctype="multipart/form-data">
+
+    <div class="aspNetHidden">
+        <input type="hidden" name="StylesheetManager_TSSM"  id="StylesheetManager_TSSM" value="" />
+        <input type="hidden" name="ScriptManager_TSM"       id="ScriptManager_TSM"      value="" />
+        <input type="hidden" name="__EVENTTARGET"           id="__EVENTTARGET"          value="" />
+        <input type="hidden" name="__EVENTARGUMENT"         id="__EVENTARGUMENT"        value="" />
+        <input type="hidden" name="__VIEWSTATE"             id="__VIEWSTATE"            value="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" />
+    </div>
+
+    <div class="aspNetHidden">
+        <input type="hidden" name="__VIEWSTATEGENERATOR"    id="__VIEWSTATEGENERATOR"   value="CA0B0334" />
+        <input type="hidden" name="__VIEWSTATEENCRYPTED"    id="__VIEWSTATEENCRYPTED"   value="" />
+        <input type="hidden" name="__EVENTVALIDATION"       id="__EVENTVALIDATION"      value="eQ6QhWvQt3fdFOTHg5WUqT/Rja+DdnffuHzEkjQ3u0SS0QMmKxuaJ7nlBtXxQ0z5VO+Clui3Rx2HLice1ogNldkf3LMHRFmMS1viQm19AZ7Z1Ujh+d0eYwvhjd8U8hEDQHSYQf7sArf6MUggUxtK6fz8IednTh6expA5pXqdfMt5h5qbB4ohewnxNZUyZFCtMHfsqrUDs2pJQR2R" />
+    </div>
+
+    <div class="shade"></div>
+    <div id="parent"></div>
+
+    <table cellpadding="0" cellspacing="0" border="0" class="comingsoonbox">
+        
+        <tr>
+            <td>
+                <div id="dnn_TopPane" class="TopPane DNNEmptyPane"></div>
+                <div id="dnn_ContentPane" class="ContentPane">
+                    <div class="DnnModule DnnModule-DNN_HTML DnnModule-28315">
+                        <a name="28315"></a>
+                        <div class="White">
+                            <div id="dnn_ctr28315_ContentPane" class="contentpane">
+                                <!-- Start_Module_28315 -->
+                                <div id="dnn_ctr28315_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+                                    <div id="dnn_ctr28315_HtmlModule_lblContent" class="Normal">
+                                        <br />
+                                        <br />
+                                        <div class="coming_soon_tilte">
+                                            Arrive bientôt !
+                                        </div>
+                                        <div class="coming_soon_content">
+                                            Bienvenue sur site officiel de <b>BOPACK</b>, mais celui ci n'est pas encore prêt.
+                                            <br />
+                                            Merci de revenir plus tard.
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- End_Module_28315 -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                <div class="dnn_layout">
+                    <ul id="countdown">
+                        <li>
+                            <div class="timebox timedays">
+                                <div class="time">
+                                    <span class="days">00</span>
+                                    <p class="timeRefDays"></p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="timebox timehours">
+                                <div class="time">
+                                    <span class="hours">00</span>
+                                    <p class="timeRefHours"></p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="timebox timeminutes">
+                                <div class="time">
+                                    <span class="minutes">00</span>
+                                    <p class="timeRefMinutes"></p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="timebox timeseconds">
+                                <div class="time">
+                                    <span class="seconds">00</span>
+                                    <p class="timeRefSeconds"></p>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                    <div class="time_end">time end ...</div>
+                </div>
+            </td>
+        </tr>
+        
+        <tr>
+            <td>
+                <div id="dnn_BottomPane" class="BottomPane">
+                    <div class="DnnModule DnnModule-DNN_HTML DnnModule-28312">
+
+                        <a name="28312"></a>
+
+                        <div class="White">
+                            <div id="dnn_ctr28312_ContentPane" class="contentpane">
+                                <!-- Start_Module_28312 -->
+                                <div id="dnn_ctr28312_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+                                    <div id="dnn_ctr28312_HtmlModule_lblContent" class="Normal">
+                                        <div class="coming_soon_tilte2">
+                                            SOYEZ L'UN DES PREMIERS A DÉCOURIR LE SITE.
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- End_Module_28312 -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="DnnModule DnnModule-DNNGoPowerForms DnnModule-28313">
+
+                        <a name="28313"></a>
+
+                        <div class="White">
+                            <div id="dnn_ctr28313_ContentPane" class="contentpane">
+                                <!-- Start_Module_28313 -->
+                                <div id="dnn_ctr28313_ModuleContent" class="DNNModuleContent ModDNNGoPowerFormsC">
+                                    <div id="dnn_ctr28313_View_Index_plLicense">
+                                        <div id="phContainer28313" class="validationEngineContainer form_div_28313">
+                                            <div>
+                                                <div class="Theme_Responsive_20067_ComingSoon" id="form_div_28313" style="width:30%;">
+                                                    <ul class="form_list">
+                                                        <li style="width:100%">
+                                                            <div class="form_row row1">
+                                                                <div class="form_input">
+                                                                    <input type="text" name="Ctl$Email$28313" id="Ctl_Email_28313" placeholder="Email" title="Email" 
+                                                                           class="validate[required,custom[email],maxSize[2000]] required" style="width:100%;" />
+                                                                </div>
+                                                            </div>
+                                                        </li>
+                                                    </ul>
+                                                    <div class="form_submit">
+                                                        <input type="submit" name="dnn$ctr28313$View_Index$ctl00$SubmitButton" id="dnn_ctr28313_View_Index_ctl00_SubmitButton" 
+                                                               lang="Submit" onclick="" title="Envoyer" value="Envoyer" class="SubmitButton28313 btn submit_but" />
+                                                    </div>
+                                                </div>
+
+                                                <input type="hidden" name="dnn$ctr28313$View_Index$ctl00$hfVerifyEncrypt" id="dnn_ctr28313_View_Index_ctl00_hfVerifyEncrypt" value="+7YzUoKDk16ARhTgFV/nnQ==" />
+                                                <input type="hidden" name="dnn$ctr28313$View_Index$ctl00$hfVerifyString" id="dnn_ctr28313_View_Index_ctl00_hfVerifyString" value="caac94ecea02" />
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- End_Module_28313 -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="DnnModule DnnModule-DNN_HTML DnnModule-28314">
+                        <a name="28314"></a>
+                        <div class="White">
+                            <div id="dnn_ctr28314_ContentPane" class="contentpane">
+                                <!-- Start_Module_28314 -->
+                                <div id="dnn_ctr28314_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+                                    <div id="dnn_ctr28314_HtmlModule_lblContent" class="Normal">
+                                        <div class="social-icons comingsoon_social  clearfix">
+                                            <a href="@ViewBag.Contact.Facebook" target="_blank">
+                                                <span class="fa fa-facebook"></span>
+                                            </a>
+                                            @*
+                                            <a href="#"><span class="fa fa-renren"></span></a>
+                                            <a href="#"><span class="fa fa-google-plus"></span></a>
+                                            <a href="#"><span class="fa fa-apple"></span></a>
+                                            <a href="#"><span class="fa fa-twitter"></span></a>
+                                            <a href="#"><span class="fa fa-tumblr"></span></a>
+                                            *@
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- End_Module_28314 -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <span id="dnn_dnnCOPYRIGHT_lblCopyright" class="footer">
+                    © 2018 Tous droits réservés à BOPACK <small>V. @ViewBag.App_Version</small>
+                </span>
+            </td>
+        </tr>
+    
+    </table>
+
+    <input name="ScrollTop"     type="hidden" id="ScrollTop" />
+    <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" />
+
+</form>

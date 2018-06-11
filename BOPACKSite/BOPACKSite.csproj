@@ -1,0 +1,623 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2BF5C1A9-70D0-49BF-83C0-D1B286977DEC}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BOPACKSite</RootNamespace>
+    <AssemblyName>BOPACKSite</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.8\lib\net45-full\log4net.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http">
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest">
+    </Reference>
+    <Reference Include="System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.3\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.3\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Deployment, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="WebGrease">
+      <Private>True</Private>
+      <HintPath>..\packages\WebGrease.1.5.2\lib\WebGrease.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime">
+      <Private>True</Private>
+      <HintPath>..\packages\Antlr.3.4.1.9004\lib\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.Core">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.Core.2.2.1\lib\net45\Microsoft.AspNet.Identity.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.Owin">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.Owin.2.2.1\lib\net45\Microsoft.AspNet.Identity.Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.EntityFramework">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.EntityFramework.2.2.1\lib\net45\Microsoft.AspNet.Identity.EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Owin">
+      <HintPath>..\packages\Owin.1.0\lib\net40\Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin">
+      <HintPath>..\packages\Microsoft.Owin.3.0.1\lib\net45\Microsoft.Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Host.SystemWeb">
+      <HintPath>..\packages\Microsoft.Owin.Host.SystemWeb.3.0.1\lib\net45\Microsoft.Owin.Host.SystemWeb.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security">
+      <HintPath>..\packages\Microsoft.Owin.Security.3.0.1\lib\net45\Microsoft.Owin.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Facebook">
+      <HintPath>..\packages\Microsoft.Owin.Security.Facebook.3.0.1\lib\net45\Microsoft.Owin.Security.Facebook.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Cookies">
+      <HintPath>..\packages\Microsoft.Owin.Security.Cookies.3.0.1\lib\net45\Microsoft.Owin.Security.Cookies.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.OAuth">
+      <HintPath>..\packages\Microsoft.Owin.Security.OAuth.3.0.1\lib\net45\Microsoft.Owin.Security.OAuth.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Google">
+      <HintPath>..\packages\Microsoft.Owin.Security.Google.3.0.1\lib\net45\Microsoft.Owin.Security.Google.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Twitter">
+      <HintPath>..\packages\Microsoft.Owin.Security.Twitter.3.0.1\lib\net45\Microsoft.Owin.Security.Twitter.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.MicrosoftAccount">
+      <HintPath>..\packages\Microsoft.Owin.Security.MicrosoftAccount.3.0.1\lib\net45\Microsoft.Owin.Security.MicrosoftAccount.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Lang\Lang.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Lang.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_Lang\Lang.fr.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Lang.fr.resx</DependentUpon>
+    </Compile>
+    <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="App_Start\FilterConfig.cs" />
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\BPController.cs" />
+    <Compile Include="Controllers\ErreurController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Culture\CultureHelper.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Models\ActionFilter\ResponseErreur.cs" />
+    <Compile Include="Models\Static\AppSetting.cs" />
+    <Compile Include="Models\Static\BPClass.cs" />
+    <Compile Include="Models\Connexion.cs" />
+    <Compile Include="Models\Static\BPConvert.cs" />
+    <Compile Include="Models\Static\Cryptage.cs" />
+    <Compile Include="Models\Static\Enumeration.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Startup.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Data\Keyword.en.txt" />
+    <Content Include="App_Data\Keyword.fr.txt" />
+    <Content Include="App_Data\Log.txt" />
+    <Content Include="favicon.ico" />
+    <Content Include="Fonts\fontawesome-webfont.svg" />
+    <Content Include="Global.asax" />
+    <Content Include="Resources\css\comingsoon.css" />
+    <Content Include="Resources\css\bpstyle.css" />
+    <Content Include="Resources\css\portal.css" />
+    <Content Include="Resources\DesktopModules\Admin\Authentication\images\socialLoginbuttons-icons.png" />
+    <Content Include="Resources\DesktopModules\Admin\Authentication\images\socialLoginbuttons-repeatingbg.png" />
+    <Content Include="Resources\DesktopModules\Admin\Authentication\module.css" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\images\dummy.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\js\jquery.themepunch.revolution.merge.js" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\font\revicons90c6.svg" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\arrowleft.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\arrowright.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\arrow_left.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\arrow_left2.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\arrow_right.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\arrow_right2.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\boxed_bgtile.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\bullet.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\bullets.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\bullets2.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\bullet_boxed.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\coloredbg.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\gradient\g30.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\gradient\g40.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\gridtile.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\gridtile_3x3.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\gridtile_3x3_white.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\gridtile_white.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\large_left.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\large_right.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\loader.gif" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\navigdots.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\navigdots_bgtile.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\shadow1.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\shadow2.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\shadow3.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\small_left.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\small_left_boxed.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\small_right.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\small_right_boxed.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\images\timer.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\Style.css" />
+    <Content Include="Resources\DesktopModules\DNNGo_PowerForms\Effects\Effect_01_Responsive\Themes\Theme_Responsive_20067-home2\images\calendar.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_PowerForms\Effects\Effect_01_Responsive\Themes\Theme_Responsive_20067-home2\Style.css" />
+    <Content Include="Resources\DesktopModules\DNNGo_PowerForms\Resource\images\no.png" />
+    <Content Include="Resources\DesktopModules\DNNGo_PowerForms\Resource\js\jquery.inputDefault.js" />
+    <Content Include="Resources\DesktopModules\DNNGo_PowerForms\Resource\js\jquery.validationEngine-en.js" />
+    <Content Include="Resources\DesktopModules\DNNGo_PowerForms\Resource\js\jquery.validationEngine.js" />
+    <Content Include="Resources\DesktopModules\DNNGo_PowerForms\Resource\js\sisyphus.min.js" />
+    <Content Include="Resources\DesktopModules\DNNGo_PowerForms\Resource\plugins\jquery-datepick\jquery.datepick.lang.js" />
+    <Content Include="Resources\DesktopModules\DNNGo_PowerForms\Resource\plugins\jquery-datepick\jquery.datepick.min.js" />
+    <Content Include="Resources\DesktopModules\DNNGo_PowerForms\Resource\plugins\jquery-datepick\jquery.datepick.css" />
+    <Content Include="Resources\DesktopModules\DNNGo_PowerForms\Resource\plugins\jquery-datepick\jquery.plugin.min.js" />
+    <Content Include="Resources\DesktopModules\DNNGo_PowerForms\Resource\plugins\tinymce\tinymce.min.js" />
+    <Content Include="Resources\DesktopModules\DNNGo_xPlugin\Resource\css\jquery.mmenud.css" />
+    <Content Include="Resources\DesktopModules\DNNGo_xPlugin\Resource\js\dnngo-xplugind.js" />
+    <Content Include="Resources\DesktopModules\HTML\module.css" />
+    <Content Include="Resources\images\gif\loading.gif" />
+    <Content Include="Resources\images\ico\favicon.ico" />
+    <Content Include="Resources\images\jpg\banner6_1.jpg" />
+    <Content Include="Resources\images\jpg\banner6_2.jpg" />
+    <Content Include="Resources\images\jpg\isotope_01-one.jpg" />
+    <Content Include="Resources\images\jpg\isotope_01_1.jpg" />
+    <Content Include="Resources\images\jpg\isotope_02-one.jpg" />
+    <Content Include="Resources\images\jpg\isotope_02_1.jpg" />
+    <Content Include="Resources\images\jpg\isotope_03-one.jpg" />
+    <Content Include="Resources\images\jpg\isotope_03_1.jpg" />
+    <Content Include="Resources\images\jpg\isotope_04-one.jpg" />
+    <Content Include="Resources\images\jpg\isotope_04_1.jpg" />
+    <Content Include="Resources\images\jpg\isotope_05-one.jpg" />
+    <Content Include="Resources\images\jpg\isotope_05_1.jpg" />
+    <Content Include="Resources\images\jpg\isotope_06-one.jpg" />
+    <Content Include="Resources\images\jpg\isotope_06_1.jpg" />
+    <Content Include="Resources\images\jpg\isotope_07-one.jpg" />
+    <Content Include="Resources\images\jpg\isotope_07_1.jpg" />
+    <Content Include="Resources\images\jpg\isotope_08-one.jpg" />
+    <Content Include="Resources\images\jpg\isotope_08.jpg" />
+    <Content Include="Resources\images\jpg\isotope_08_1.jpg" />
+    <Content Include="Resources\images\jpg\isotope_09-one.jpg" />
+    <Content Include="Resources\images\jpg\isotope_09_1.jpg" />
+    <Content Include="Resources\images\jpg\isotope_10-one.jpg" />
+    <Content Include="Resources\images\jpg\isotope_10_1.jpg" />
+    <Content Include="Resources\images\jpg\isotope_11-one.jpg" />
+    <Content Include="Resources\images\jpg\isotope_11_1.jpg" />
+    <Content Include="Resources\images\jpg\licor\5.jpg" />
+    <Content Include="Resources\images\jpg\licor\1.jpg" />
+    <Content Include="Resources\images\jpg\licor\2.jpg" />
+    <Content Include="Resources\images\jpg\licor\3.jpg" />
+    <Content Include="Resources\images\jpg\licor\4.jpg" />
+    <Content Include="Resources\images\jpg\OG_Shared.jpg" />
+    <Content Include="Resources\images\jpg\pic_10_1.jpg" />
+    <Content Include="Resources\images\jpg\pic_10_small.jpg" />
+    <Content Include="Resources\images\jpg\pic_11_1.jpg" />
+    <Content Include="Resources\images\jpg\pic_11_small.jpg" />
+    <Content Include="Resources\images\jpg\pic_12_1.jpg" />
+    <Content Include="Resources\images\jpg\pic_12_small.jpg" />
+    <Content Include="Resources\images\jpg\pic_13_1.jpg" />
+    <Content Include="Resources\images\jpg\pic_13_small.jpg" />
+    <Content Include="Resources\images\jpg\pic_14_1.jpg" />
+    <Content Include="Resources\images\jpg\pic_14_small.jpg" />
+    <Content Include="Resources\images\jpg\pic_15_1.jpg" />
+    <Content Include="Resources\images\jpg\pic_15_small.jpg" />
+    <Content Include="Resources\images\png\arrow-right-white.png" />
+    <Content Include="Resources\images\png\banner6_1_1.png" />
+    <Content Include="Resources\images\png\banner6_2_1.png" />
+    <Content Include="Resources\images\png\checkbox.png" />
+    <Content Include="Resources\images\png\clearText.png" />
+    <Content Include="Resources\images\png\closeBtn.png" />
+    <Content Include="Resources\images\png\dnnSpinnerDownArrow.png" />
+    <Content Include="Resources\images\png\dnnSpinnerUpArrow.png" />
+    <Content Include="Resources\images\png\down-icn.png" />
+    <Content Include="Resources\images\png\dummy.png" />
+    <Content Include="Resources\images\png\eip_edit.png" />
+    <Content Include="Resources\images\png\eip_save.png" />
+    <Content Include="Resources\images\png\eip_title_cancel.png" />
+    <Content Include="Resources\images\png\eip_title_save.png" />
+    <Content Include="Resources\images\png\eip_toolbar.png" />
+    <Content Include="Resources\images\png\fricon\1.png" />
+    <Content Include="Resources\images\png\fricon\2.png" />
+    <Content Include="Resources\images\png\fricon\3.png" />
+    <Content Include="Resources\images\png\fricon\4.png" />
+    <Content Include="Resources\images\png\fricon\5.png" />
+    <Content Include="Resources\images\png\fricon\6.png" />
+    <Content Include="Resources\images\png\fricon\7.png" />
+    <Content Include="Resources\images\png\fricon\8.png" />
+    <Content Include="Resources\images\png\fricon\9.png" />
+    <Content Include="Resources\images\png\helpI-icn-grey.png" />
+    <Content Include="Resources\images\png\InstallWizardBG.png" />
+    <Content Include="Resources\images\png\link_img_00.png" />
+    <Content Include="Resources\images\png\link_img_21.png" />
+    <Content Include="Resources\images\png\link_img_22.png" />
+    <Content Include="Resources\images\png\link_img_23.png" />
+    <Content Include="Resources\images\png\link_img_24.png" />
+    <Content Include="Resources\images\png\link_img_25.png" />
+    <Content Include="Resources\images\png\link_img_26.png" />
+    <Content Include="Resources\images\png\link_img_27.png" />
+    <Content Include="Resources\images\png\link_img_28.png" />
+    <Content Include="Resources\images\png\link_img_29.png" />
+    <Content Include="Resources\images\png\link_img_30.png" />
+    <Content Include="Resources\images\png\Logo.png" />
+    <Content Include="Resources\images\png\mapicon01.png" />
+    <Content Include="Resources\images\png\modal-resize-icn.png" />
+    <Content Include="Resources\images\png\nutriva\1.png" />
+    <Content Include="Resources\images\png\nutriva\2.png" />
+    <Content Include="Resources\images\png\nutriva\3.png" />
+    <Content Include="Resources\images\png\nutriva\4.png" />
+    <Content Include="Resources\images\png\nutriva\ancien\1.png" />
+    <Content Include="Resources\images\png\nutriva\ancien\2.png" />
+    <Content Include="Resources\images\png\nutriva\ancien\3.png" />
+    <Content Include="Resources\images\png\nutriva\ancien\4.png" />
+    <Content Include="Resources\images\png\palandin\ket-chup\1.png" />
+    <Content Include="Resources\images\png\palandin\ket-chup\2.png" />
+    <Content Include="Resources\images\png\palandin\ket-chup\3.png" />
+    <Content Include="Resources\images\png\palandin\mayonaise\1.png" />
+    <Content Include="Resources\images\png\palandin\mayonaise\2.png" />
+    <Content Include="Resources\images\png\palandin\mayonaise\3.png" />
+    <Content Include="Resources\images\png\palandin\moutarde\1.png" />
+    <Content Include="Resources\images\png\palandin\moutarde\2.png" />
+    <Content Include="Resources\images\png\palandin\moutarde\3.png" />
+    <Content Include="Resources\images\png\palandin\restaurant\1.png" />
+    <Content Include="Resources\images\png\palandin\restaurant\2.png" />
+    <Content Include="Resources\images\png\palandin\restaurant\3.png" />
+    <Content Include="Resources\images\png\palandin\restaurant\4.png" />
+    <Content Include="Resources\images\png\palandin\sauce-piquante\1.png" />
+    <Content Include="Resources\images\png\palandin\sauce-piquante\2.png" />
+    <Content Include="Resources\images\png\palandin\sauce-piquante\3.png" />
+    <Content Include="Resources\images\png\palandin\sauce-piquante\4.png" />
+    <Content Include="Resources\images\png\palandin\sauce-piquante\5.png" />
+    <Content Include="Resources\images\png\palandin\sauce\1.png" />
+    <Content Include="Resources\images\png\palandin\sauce\2.png" />
+    <Content Include="Resources\images\png\palandin\sauce\3.png" />
+    <Content Include="Resources\images\png\palandin\vinaigre\1.png" />
+    <Content Include="Resources\images\png\palandin\vinaigre\2.png" />
+    <Content Include="Resources\images\png\palandin\vinaigre\3.png" />
+    <Content Include="Resources\images\png\palandin\vinaigre\4.png" />
+    <Content Include="Resources\images\png\pic_25.png" />
+    <Content Include="Resources\images\png\pin-icn.png" />
+    <Content Include="Resources\images\png\quinas\1.png" />
+    <Content Include="Resources\images\png\quinas\2.png" />
+    <Content Include="Resources\images\png\quinas\3.png" />
+    <Content Include="Resources\images\png\quinas\4.png" />
+    <Content Include="Resources\images\png\radiobutton.png" />
+    <Content Include="Resources\images\png\resizeBtn.png" />
+    <Content Include="Resources\images\png\up-icn.png" />
+    <Content Include="Resources\Portals\_default\Containers\20067-UnlimitedColorsPack-049\container.css" />
+    <Content Include="Resources\Portals\_default\Containers\Gravity\container.css" />
+    <Content Include="Resources\Portals\_default\default.css" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\css\bootstrap.css" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\css\shortcodes.css" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\arrow_1.png" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\backgroundImage_aboutus.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\backgroundImage_aboutus02.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\backgroundImage_pricing.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\backgroundImage_team.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\backgroundImage_team02.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\backgroundImage_time.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\backgroundImage_time02.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\bar_bg_2.png" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\Body_bg_2.png" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\but_bg.html" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\ComingSoonPic_1.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\dividers_3.png" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\dividers_6.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\foot_bg_2.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\gohome_ico.png" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\grabbing.html" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\gray.svg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\img_bg_10.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\img_bg_11.png" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\img_bg_15.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\img_bg_18.png" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\img_bg_19.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\img_bg_2.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\img_bg_20.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\img_bg_21.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\img_bg_22.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\img_bg_23.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\img_bg_24.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\img_bg_25.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\img_bg_26.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\img_bg_27.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\img_bg_28.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\img_bg_29.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\img_bg_7.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\img_bg_8.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\img_bg_9.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\line_1.png" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\loaded_list_bg.png" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\Loading.gif" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\percentage_bg.png" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\Service01.png" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\Service01_30.png" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\service_bg.jpg" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\shade.png" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\images\xplugin.png" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\OnePage.css" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\pacestyle\barber-shop.css" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\scripts\comingsoon.js" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\scripts\custom.js" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\scripts\pace.min.js" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\scripts\script.js" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\skin.css" />
+    <Content Include="Resources\Portals\_default\Skins\20067-UnlimitedColorsPack-049\Thumbnails\loader1.gif" />
+    <Content Include="Resources\Portals\_default\Skins\Gravity\bootstrap\css\bootstrap.min.css" />
+    <Content Include="Resources\Portals\_default\Skins\Gravity\bootstrap\img\glyphicons-halflings-white.png" />
+    <Content Include="Resources\Portals\_default\Skins\Gravity\bootstrap\js\bootstrap.min.js" />
+    <Content Include="Resources\Portals\_default\Skins\Gravity\images\arrow.png" />
+    <Content Include="Resources\Portals\_default\Skins\Gravity\images\copyright-background.png" />
+    <Content Include="Resources\Portals\_default\Skins\Gravity\images\globe.png" />
+    <Content Include="Resources\Portals\_default\Skins\Gravity\images\icon-btn-sm-circle-arrow.png" />
+    <Content Include="Resources\Portals\_default\Skins\Gravity\images\icon_bin.png" />
+    <Content Include="Resources\Portals\_default\Skins\Gravity\images\icon_message.png" />
+    <Content Include="Resources\Portals\_default\Skins\Gravity\images\icon_notification.png" />
+    <Content Include="Resources\Portals\_default\Skins\Gravity\images\left-arrow.png" />
+    <Content Include="Resources\Portals\_default\Skins\Gravity\images\pagination.png" />
+    <Content Include="Resources\Portals\_default\Skins\Gravity\images\right-arrow.png" />
+    <Content Include="Resources\Portals\_default\Skins\Gravity\images\search.png" />
+    <Content Include="Resources\Portals\_default\Skins\Gravity\js\doubletaptogo.min.js" />
+    <Content Include="Resources\Portals\_default\Skins\Gravity\js\scripts.js" />
+    <Content Include="Resources\Portals\_default\Skins\Gravity\skin.css" />
+    <Content Include="Resources\Search\SearchSkinObjectPreview.css" />
+    <Content Include="Resources\Search\SearchSkinObjectPreview.js" />
+    <Content Include="Scripts\comingsoon.2.js" />
+    <Content Include="Scripts\comingsoon.js" />
+    <Content Include="Scripts\bopackscript.js" />
+    <Content Include="Scripts\roll_menu.js" />
+    <Content Include="Scripts\dnn.modalpopup.js" />
+    <Content Include="Scripts\dnn.servicesframework.js" />
+    <Content Include="Scripts\dnn.js" />
+    <Content Include="Scripts\dnncore.js" />
+    <Content Include="Scripts\libraries\jQuery-Migrate\01_02_01\jquery-migrate.js" />
+    <Content Include="Scripts\libraries\jQuery-UI\01_10_03\jquery-ui.js" />
+    <Content Include="Scripts\libraries\jQuery\01_09_01\jquery.js" />
+    <Content Include="Scripts\Shared\scripts\dnn.jquery.js" />
+    <Content Include="Scripts\Shared\scripts\initWidgets.js" />
+    <Content Include="Scripts\Shared\scripts\jquery\jquery.hoverIntent.min.js" />
+    <Content Include="Scripts\_references.js" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Views\Web.config" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Plugins\" />
+    <Folder Include="Resources\images\html\" />
+    <Folder Include="Views\Home\Erreur\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Shared\_Cookies.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\font\revicons90c6.eot" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\font\revicons90c6.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\DesktopModules\DNNGo_LayerGallery\Effects\Effect_01_SliderRevolution3D\Themes\defaultskin\font\revicons90c6.woff" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\autres\WebResource.axd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Shared\_Footer.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Fonts\fontawesome-webfont.woff" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Fonts\fontawesome-webfont.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Fonts\fontawesome-webfont.eot" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Home\Index\_Entete.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="App_Lang\Lang.fr.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Lang.fr.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="App_Lang\Lang.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Lang.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Home\Maintenance\_Head.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Home\Maintenance.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Shared\_LayoutMaintenance.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Shared\_MetaOG.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Home\Index\_Qui_sommes_nous.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Home\Index\_Partenaires.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Home\Index\_Contact.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Home\Index\_Clients.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Home\Index\_Maps.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Home\Index\_Acceuil.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Shared\_Modals.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\PublishProfiles\release2.pubxml" />
+    <Content Include="Views\Home\Erreur.cshtml" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <Target Name="MvcBuildViews" AfterTargets="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(WebProjectOutputDir)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>53998</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:53998/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target> -->
+</Project>

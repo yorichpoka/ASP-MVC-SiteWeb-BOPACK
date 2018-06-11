@@ -1,0 +1,38 @@
+﻿
+/* -- Cookies -- */
+.cookiewarning {
+    padding: 1em;
+    display: none;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 100;
+    background-color: rgba(0,0,0,.8);
+    color: white;
+}
+
+/* -- Page Index -- */
+#form_div_30732 .actionMenu {
+    display: none;
+}
+
+#form_div_30732 .form_row {
+    padding: 0px 0px 10px 10px;
+}
+
+#form_div_30732 .form_list {
+    margin: 0 0 0 -10px;
+}
+
+/* -- Page Coming Soon -- */
+#form_div_28313 .actionMenu {
+    display: none;
+}
+
+#form_div_28313 .form_row {
+    padding: 0px 0px 10px 10px;
+}
+
+#form_div_28313 .form_list {
+    margin: 0 0 0 -10px;
+}

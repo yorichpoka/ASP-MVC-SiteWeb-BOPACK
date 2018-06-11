@@ -1,0 +1,165 @@
+/* 
+================================
+ Container Styles for DotNetNuke
+================================
+.
+
+
+/*-------------------------------------------------------------------------------*/
+.actions{ width:10px;}
+.clear									 { clear:both;}
+.c_footer								 { padding-right:10px; text-align:right;}
+.dnntitle 								 {}
+.c_contentpane 							 { text-align:left; padding:2px 5px 0px 5px;}
+.ModuleTitle_MenuContainer				 { width:100px!important;}
+
+
+.Container-H3-1 						 { margin:0 0 5px;  }
+.Container-H3-1 .dnntitle				 { white-space:nowrap; padding:0px 0 8px;  text-align:center; }
+.Container-H3-1 .contentmain1			 { }
+.Container-H3-1 .contentpane			 { padding:5px 0px 0px 0px; text-align:left; vertical-align:top; clear:both; }
+
+.Container-H4-1 						 { margin:0 0 5px;  }
+.Container-H4-1 .dnntitle				 { white-space:nowrap; padding:0px 0 8px;  text-align:left; }
+.Container-H4-1 .contentmain1			 { }
+.Container-H4-1 .contentpane			 { padding:5px 0px 0px 0px; text-align:left; vertical-align:top; clear:both; }
+
+
+.Container-1 							 { margin:0 0 5px;  }
+.Container-1 .dnntitle					 { white-space:nowrap; padding:0px 0 8px;  text-align:left; }
+.Container-1 .contentmain1				 { }
+.Container-1 .contentpane				 { padding:5px 0px 0px 0px; text-align:left; vertical-align:top; clear:both; }
+
+.Container-2 							 { margin:0 0 5px;  }
+.Container-2 .dnntitle					 { white-space:nowrap; padding:0px 0 15px;  text-align:left; }
+.Container-2 .contentmain1				 { }
+.Container-2 .contentpane				 { padding:5px 0px 0px 0px; text-align:left; vertical-align:top; clear:both; }
+
+.Container-3 						 	 { margin:0 0 5px;  }
+.Container-3 .dnntitle				 	 { white-space:nowrap; padding:0px 0 8px;  text-align:left;}
+.Container-3 .contentmain1			 	 { }
+.Container-3 .contentpane			 	 { padding:5px 0px 0px 0px; text-align:left; vertical-align:top; clear:both; }
+
+.Container-4 						 	 { margin:0 0 5px;  }
+.Container-4 .dnntitle				 	 { white-space:nowrap; padding:0px 0 8px;  text-align:left;}
+.Container-4 .contentmain1			 	 { }
+.Container-4 .contentpane			 	 { padding:5px 0px 0px 0px; text-align:left; vertical-align:top; clear:both; }
+.Container-4 .dnntitle				 	 { white-space:nowrap; padding:0px 0 8px;  text-align:left; position:relative; overflow:hidden;}
+
+.Container-5 						 	 { margin:0 0 5px;  }
+.Container-5 .dnntitle				 	 { white-space:nowrap; padding:0px 0 8px;  text-align:left;}
+.Container-5 .contentmain1			 	 { }
+.Container-5 .contentpane			 	 { padding:5px 0px 0px 0px; text-align:left; vertical-align:top; clear:both; }
+.Container-5 .dnntitle				 	 { white-space:nowrap; padding:0px 0 8px;  text-align:left; position:relative; overflow:hidden;}
+
+.Container-6 							 { margin:0 0 5px;  }
+.Container-6 .dnntitle					 { white-space:nowrap; padding:0px 0 8px;  text-align:left; }
+.Container-6 .contentmain1				 { }
+.Container-6 .contentpane				 { padding:5px 0px 0px 0px; text-align:left; vertical-align:top; clear:both; }
+
+.Container-7 						 	 { margin:0 0 5px;  }
+.Container-7 .dnntitle				 	 { white-space:nowrap; padding:15px 8px;  text-align:center; background-color:#07c6f5;border-radius:5px 5px 0 0; -moz-border-radius:5px 5px 0 0; -webkit-border-radius:5px 5px 0 0;}
+.Container-7 .contentmain1			 	 { background-color:#f2f2f2; padding:25px 35px; border-radius: 0 0 5px 5px; -moz-border-radius: 0 0 5px 5px; -webkit-border-radius: 0 0 5px 5px; }
+.Container-7 .contentpane			 	 { padding:5px 0px 0px 0px; text-align:left; vertical-align:top; clear:both; }
+.Container-7 .Normal 					 { color:#555555;}
+
+.Container-8 						 	 { margin:0 0 5px; border:2px solid #07c6f5; border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px; }
+.Container-8 .dnntitle				 	 { white-space:nowrap; padding:25px 8px;  text-align:center;}
+.Container-8 .contentmain1			 	 { padding:0px 30px 25px; }
+.Container-8 .contentpane			 	 { padding:5px 0px 0px 0px; text-align:left; vertical-align:top; clear:both; }
+
+.Container-9 						 	 { margin:0 0 5px; background-color:#07c6f5; border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px; }
+.Container-9 .dnntitle				 	 { white-space:nowrap; padding:25px 8px 0;  text-align:center;}
+.Container-9 .dnntitle:after		 	 { content:""; border-bottom:2px solid #FFF; border-bottom-color:rgba(255,255,255,0.5); width:85px; display:block; margin:auto; margin-top:25px; margin-bottom:25px;}
+.Container-9 .contentmain1			 	 { padding:0px 30px 25px;}
+.Container-9 .contentpane			 	 { padding:5px 0px 0px 0px; text-align:left; vertical-align:top; clear:both;  }
+.Container-9 .Normal 					 { color:#FFF;}
+
+.Container-10 						 	 { margin:0 0 5px; background-color:#f2f2f2; border-radius:8px; -moz-border-radius:8px; -webkit-border-radius:8px; border-top:8px solid #07c6f5; }
+.Container-10 .dnntitle				 	 { white-space:nowrap; padding:25px 8px 20px;  text-align:center;}
+.Container-10 .contentmain1			 	 { padding:0px 30px 25px;}
+.Container-10 .contentpane			 	 { padding:5px 0px 0px 0px; text-align:left; vertical-align:top; clear:both;  }
+.Container-10 .Normal 					 { color:#555555;}
+	
+.Container-H3-2 						 { margin:0 0 5px;  }
+.Container-H3-2 .dnntitle				 { white-space:nowrap; padding:0px 0 8px;  text-align:left; }
+.Container-H3-2 .contentmain1			 { }
+.Container-H3-2 .contentpane			 { padding:5px 0px 0px 0px; text-align:left; vertical-align:top; clear:both; }
+
+.Container-H3-3 						 { margin:0 0 5px;  }
+.Container-H3-3 .dnntitle				 { white-space:nowrap; padding:0px 0 8px;  text-align:left; }
+.Container-H3-3 .contentmain1			 { }
+.Container-H3-3 .contentpane			 { padding:5px 0px 0px 0px; text-align:left; vertical-align:top; clear:both; }
+.Container-H3-3 .dnntitle:after 		 { content:" "; width:38px; height:12px; border-bottom:1px solid #000000; display:block; }
+
+.Container-H3-4 						 { margin:0 0 5px;  }
+.Container-H3-4 .dnntitle				 { white-space:nowrap; padding:0px 0 8px;  text-align:center; }
+.Container-H3-4 .contentmain1			 { }
+.Container-H3-4 .contentpane			 { padding:5px 0px 0px 0px; text-align:left; vertical-align:top; clear:both; }
+.Container-H3-4 .dnntitle:after 		 { content:" "; width:38px; height:12px; border-bottom:1px solid #000000; display:block; margin:auto }
+
+.Container-H3-5 						 { margin:0 0 5px;  }
+.Container-H3-5 .dnntitle				 { white-space:nowrap; padding:0px 0 8px;  text-align:center; }
+.Container-H3-5 .contentmain1			 { }
+.Container-H3-5 .contentpane			 { padding:5px 0px 0px 0px; text-align:left; vertical-align:top; clear:both; }
+.Container-H3-5 .dnntitle:after 		 { content:" "; width:116px; height:12px; border-bottom:1px solid #000000; display:block; margin:auto }
+
+.Container-H3-6 						 { margin:0 0 5px;  }
+.Container-H3-6 .dnntitle				 { white-space:nowrap; padding:0px 0 8px;  text-align:center; }
+.Container-H3-6 .contentmain1			 { }
+.Container-H3-6 .contentpane			 { padding:5px 0px 0px 0px; text-align:left; vertical-align:top; clear:both; }
+.Container-H3-6 .dnntitle:after 		 { content:" "; width:38px; height:12px; border-bottom:3px solid #3cceda; display:block; margin:auto }
+
+.Container-H3-7 						 { margin:0 0 5px;  }
+.Container-H3-7 .dnntitle				 { white-space:nowrap; padding:0px 0 8px;  }
+.Container-H3-7 .contentmain1			 { }
+.Container-H3-7 .contentpane			 { padding:5px 0px 0px 0px; text-align:left; vertical-align:top; clear:both; }
+
+.Container-H3-8 						 { margin:0 0 5px;  }
+.Container-H3-8 .dnntitle				 { white-space:nowrap; padding:0px 0 8px;  }
+.Container-H3-8 .contentmain1			 { }
+.Container-H3-8 .contentpane			 { padding:5px 0px 0px 0px; text-align:left; vertical-align:top; clear:both; }
+
+.Container-H3-9 						 { margin:0 0 5px;  }
+.Container-H3-9 .dnntitle				 { white-space:nowrap; padding:0px 0 8px;  text-align:center; }
+.Container-H3-9 .contentmain1			 { }
+.Container-H3-9 .contentpane			 { padding:5px 0px 0px 0px; text-align:left; vertical-align:top; clear:both; }
+.Container-H3-9 .dnntitle:after 		 { content:" "; width:42px; height:10px; border-bottom:2px solid #000000; display:block; margin:auto; }
+
+.Container-H3-10 						 { margin:0 0 5px;  }
+.Container-H3-10 .dnntitle				 { white-space:nowrap; padding:0px 0 8px;  text-align:center; }
+.Container-H3-10 .contentmain1			 { }
+.Container-H3-10 .contentpane			 { padding:5px 0px 0px 0px; text-align:left; vertical-align:top; clear:both; }
+
+.title-H3-1{font-size:24px; line-height:1.2; white-space:normal; vertical-align:middle; font-weight:bold; padding:0px; margin:0px; position:relative; }
+.title-H3-1:before{ content:""; border-left:1px solid #000000; width:0px; position:absolute; left:-38px;  top:8px; bottom:4px; }
+.title-H3-1:after { content:""; border-left:1px solid #000000; width:0px; position:absolute; right:-38px; top:8px; bottom:4px;}
+.title-H4-1{font-size:18px; line-height:1.2; white-space:normal; vertical-align:middle; font-weight:normal; padding:0px; margin:0px; }
+.title-1{font-size:15px; line-height:1.2; color:#d7d7d7; white-space:normal; vertical-align:middle; font-weight:normal; padding:0px; margin:0px; }
+.title-2{font-size:18px; line-height:1.2; color:#FFF; white-space:normal; vertical-align:middle; font-weight:bold; padding:0px; margin:0px; }
+.title-3{font-size:16px; color:#000000; line-height:1.2; white-space:normal; vertical-align:middle; font-weight:bold; padding:0px; margin:0px; }
+.title-4{font-size:16px; color:#000000; line-height:1.2; white-space:normal; vertical-align:middle; font-weight:bold; padding:0px; margin:0px; }
+.title-4:after{ content:""; width:100%; height:8px; border-top:1px solid #e0e0e0;  border-bottom:1px solid #e0e0e0; position:absolute; top:50%; margin:-9px 0 0 15px; }
+.title-5{font-size:18px; color:#000000; line-height:1.2; white-space:normal; vertical-align:middle; font-weight:normal; padding:0px; margin:0px; }
+.title-6{font-size:15px; line-height:1.2; color:#f7f7f7; white-space:normal; vertical-align:middle; font-weight:normal; padding:0px; margin:0px; }
+.title-7{font-size:22px; line-height:1.2; color:#FFF; white-space:normal; vertical-align:middle; font-weight:normal; padding:0px; margin:0px; }
+.title-8{font-size:22px; line-height:1.2; color:#444444; white-space:normal; vertical-align:middle; font-weight:normal; padding:0px; margin:0px; }
+.title-9{font-size:22px; line-height:1.2; color:#FFFFFF; white-space:normal; vertical-align:middle; font-weight:normal; padding:0px; margin:0px; }
+.title-10{font-size:22px; line-height:1.2; color:#444444; white-space:normal; vertical-align:middle; font-weight:normal; padding:0px; margin:0px; }
+.title-H3-2{font-size:22px; line-height:1.2; white-space:normal; vertical-align:middle; font-weight:normal; padding:0px; margin:0px; }
+.title-H3-3{font-size:22px; line-height:1.2; white-space:normal; vertical-align:middle; font-weight:normal; padding:0px; margin:0px;}
+.title-H3-4{font-size:22px; line-height:1.2; white-space:normal; vertical-align:middle; font-weight:normal; padding:0px; margin:0px;}
+.title-H3-5{font-size:22px; line-height:1.2; white-space:normal; vertical-align:middle; font-weight:normal; padding:0px; margin:0px;}
+.title-H3-6{font-size:22px; line-height:1.2; white-space:normal; vertical-align:middle; font-weight:normal; padding:0px; margin:0px;}
+.title-H3-7{font-size:30px; line-height:1.2; white-space:normal; vertical-align:middle; font-weight:normal; padding:0px; margin:0px;}
+.title-H3-8{font-size:24px; line-height:1.2; white-space:normal; vertical-align:middle; font-weight:normal; padding:0px; margin:0px;}
+.title-H3-9{font-size:24px; line-height:1.2; white-space:normal; vertical-align:middle; font-weight:normal; padding:0px; margin:0px;}
+.title-H3-10{font-size:24px; line-height:1.2; white-space:normal; vertical-align:middle; font-weight:normal; padding:0px; margin:0px;}
+
+@media only screen and (max-width:767px) {
+}
+
+
+
+
+

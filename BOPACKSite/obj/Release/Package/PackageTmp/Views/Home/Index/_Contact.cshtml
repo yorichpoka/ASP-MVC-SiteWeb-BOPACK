@@ -1,0 +1,171 @@
+﻿
+<div class="DnnModule DnnModule-DNN_HTML">
+    <a name="30727"></a>
+    <div class="White">
+        <div class="contentpane">
+            <!-- Start_Module_30727 -->
+            <div class="DNNModuleContent ModDNNHTMLC">
+                <div class="Normal">
+                    <div data-title="CONTACTEZ NOUS" class="anchorTag" data-menuanchor="true"></div>
+                    <div class="content_style_6">
+                        <div class="dnn_layout">
+                            <div class="content_mid clearfix">
+                                <div class="pt-60 pb-60 bg_masks animation fadeInRight">
+                                    <div class="title_style_16 mb-40" style="text-align: center;">
+                                        <h3>NOUS CONTACTER</h3>
+                                        <!--<h4></h4>-->
+                                    </div>
+                                    <!--<p></p>-->
+
+                                    <div class="row">
+
+                                        <div class="col-xs-12 col-sm-6 animation fadeInLeft animated">
+
+                                            <ul class="contact_info">
+                                                <li>
+                                                    <span class="fa fa-map-marker"></span><span>ADRESSE : </span>
+                                                    <p>
+                                                        <b>BP: </b>
+                                                        @foreach (string val in (ViewBag.Contact.BP as string).Split(','))
+                                                        {
+                                                            @(val) <br />
+                                                        }
+                                                        <b>Fax: </b>
+                                                        @foreach (string val in (ViewBag.Contact.Fax as string).Split(','))
+                                                        {
+                                                            @(val) <br />
+                                                        }
+                                                    </p>
+                                                </li>
+                                                <li>
+                                                    <span class="fa fa-mobile-phone"></span><span>TELEPHONE : </span>
+                                                    <p>
+                                                        @foreach (string val in (ViewBag.Contact.Tel as string).Split(','))
+                                                        {
+                                                            @(val) <br />
+                                                        }
+                                                    </p>
+                                                </li>
+                                                <li>
+                                                    <span class="fa fa-envelope"></span><span>EMAIL : </span>
+                                                    <p>
+                                                        @foreach (string val in (ViewBag.Contact.Email as string).Split(','))
+                                                        {
+                                                            @(val) <br />
+                                                        }
+                                                    </p>
+                                                </li>
+                                            </ul>
+
+                                            <div class="social-icons6 clearfix">
+                                                <a href="@ViewBag.Contact.Facebook" target="_blank">
+                                                    <span class="fa fa-facebook-square"></span>
+                                                </a>
+                                                <a href="mailto:@((ViewBag.Contact.Email as string).Split(',')[0])">
+                                                    <span class="fa fa-google-plus-square"></span>
+                                                </a>
+                                                <!--
+                                                <a href="#">
+                                                    <span class="fa fa-behance-square"></span>
+                                                </a>
+                                                <a href="#">
+                                                    <span class="fa fa-bitbucket-square"></span>
+                                                </a>
+                                                <a href="#">
+                                                    <span class="fa fa-flickr"></span>
+                                                </a>
+                                                <a href="#">
+                                                    <span class="fa fa-hacker-news"></span>
+                                                </a>
+                                                <a href="#">
+                                                    <span class="fa fa-lastfm-square"></span>
+                                                </a>
+                                                <a href="#">
+                                                    <span class="fa fa-linkedin-square"></span>
+                                                </a>
+                                                <a href="#">
+                                                    <span class="fa fa-pied-piper"></span>
+                                                </a>
+                                                -->
+                                            </div>
+
+                                        </div>
+
+                                        <div class="col-xs-12 col-sm-6 animation fadeInRight animated">
+
+                                            <div class="contentmain1">
+                                                <div id="dnn_ctr30732_ContentPane" class="contentpane">
+                                                    <!-- Start_Module_30732 -->
+                                                        <div id="dnn_ctr30732_ModuleContent" class="DNNModuleContent ModDNNGoPowerFormsC">
+                                                            <div id="dnn_ctr30732_View_Index_plLicense">
+                                                                <div id="phContainer30732" class="validationEngineContainer form_div_30732">
+                                                                    <div class="Theme_Responsive_20067-home2" id="form_div_30732" style="width: 100%;">
+                                                                        <ul class="form_list">
+                                                                            <li style="width: 100%">
+                                                                                <div class="form_row row1">
+                                                                                    <div class="form_input">
+                                                                                        <input type="text" name="Ctl$Name$30732" id="Ctl_Name_30732" placeholder="Nom" title="Nom" class="validate[required,maxSize[2000]] required" style="width: 100%; border-color: black;" />
+                                                                                    </div>
+                                                                                </div>
+                                                                            </li>
+                                                                            <li style="width: 100%">
+                                                                                <div class="form_row row2">
+                                                                                    <div class="form_input">
+                                                                                        <input type="text" name="Ctl$Email$30732" id="Ctl_Email_30732" placeholder="Email" title="Email" class="validate[required,custom[email],maxSize[2000]] required" style="width: 100%; border-color: black;" />
+                                                                                    </div>
+                                                                                </div>
+                                                                            </li>
+                                                                            <li style="width: 100%">
+                                                                                <div class="form_row row2">
+                                                                                    <div class="form_input">
+                                                                                        <select name="Ctl$Role$30732" id="Ctl_Role_30732" placeholder="Je veux être" title="Je veux être" class="validate[required] required" style="width: 100%; border-color: black;">
+                                                                                            <option value="Représentant" title="Représentant">Représentant</option>
+                                                                                            <option value="Distributeur" title="Distributeur">Distributeur</option>
+                                                                                            <option value="Proposer mes produits" title="Proposer mes produits">Proposer mes produits</option>
+                                                                                        </select>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </li>
+                                                                            <li style="width: 100%">
+                                                                                <div class="form_row row3">
+                                                                                    <div class="form_input">
+                                                                                        <textarea name="Ctl$Messages$30732" id="Ctl_Messages_30732" placeholder="Messages" title="Messages" class="validate[required, maxSize[2000]]" style="width: 100%; height: 120px; border-color: black;" rows="3"></textarea>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </li>
+                                                                        </ul>
+                                                                        <div class="form_submit">
+                                                                            <input type="button" name="dnn$ctr30732$View_Index$ctl00$SubmitButton" id="dnn_ctr30732_View_Index_ctl00_SubmitButton" lang="Submit" onclick=""
+                                                                                   title="Envoyer" value="Envoyer" class="SubmitButton30732 btn submit_but"
+                                                                                   style="border-color: black; color:black;" />
+                                                                            <input type="reset" lang="reset" title="Réinitialiser" value="Réinitialiser" class="btn reset_but"
+                                                                                   style="border-color: black; color:black;" />
+                                                                        </div>
+                                                                    </div>
+                                                                    <!-- Champs cachés -->
+                                                                    <input type="hidden" name="dnn$ctr30732$View_Index$ctl00$hfVerifyEncrypt" id="dnn_ctr30732_View_Index_ctl00_hfVerifyEncrypt" value="MDXqSr0WJT6EV39NGmn2kg==" />
+                                                                    <input type="hidden" name="dnn$ctr30732$View_Index$ctl00$hfVerifyString" id="dnn_ctr30732_View_Index_ctl00_hfVerifyString" value="ca7e57227951" />
+                                                                    <!-- ./Champs cachés -->
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    <!-- End_Module_30732 -->
+                                                </div>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <!-- End_Module_30727 -->
+        </div>
+    </div>
+</div>

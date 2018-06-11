@@ -1,0 +1,402 @@
+﻿
+<!-- Entête -->
+<div class="DnnModule DnnModule-DNN_HTML DnnModule-30736">
+    <a name="30736"></a>
+    <div class="White">
+        <div id="dnn_ctr30736_ContentPane" class="contentpane">
+            <!-- Start_Module_30736 -->
+            <div id="dnn_ctr30736_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+                <div id="dnn_ctr30736_HtmlModule_lblContent" class="Normal">
+                    <div class="title_style_13 filament animation fadeInUp  mt-60 mb-60">
+                        <div data-title="NOS PARTENAIRES" class="anchorTag" data-offset="-60" data-menuanchor="true"></div>
+                        <h3>NOS PARTENAIRES</h3>
+                    </div>
+                </div>
+            </div>
+            <!-- End_Module_30736 -->
+        </div>
+    </div>
+</div>
+<!-- ./Entête -->
+
+<!-- Nutriva -->
+<div id="dnn_Full_Screen_PaneH" class="Full_Screen_PaneH">
+    <div class="DnnModule DnnModule-DNN_HTML DnnModule-28351">
+        <a name="28351"></a>
+        <div class="White">
+            <div id="dnn_ctr28351_ContentPane" class="contentpane">
+                <!-- Start_Module_28351 -->
+                <div id="dnn_ctr28351_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+                    <div id="dnn_ctr28351_HtmlModule_lblContent" class="Normal">
+                        <div class="backgroundImage10">
+                            <div class="dnn_layout pt-60 animation scaleUp">
+                                <div class="content_mid clearfix">
+                                    <h3 class="title_style_1 pb-20">
+                                        <span>NUTRIVA</span>
+                                    </h3>
+                                </div>
+                            </div>
+                            
+                            <div class="dnn_layout pb-30">
+
+                                <div class="row">
+                                    @for (int i = 1; i <= ViewBag.Images_Nutriva; i++)
+                                    {
+                                        <div class="col-xs-12 col-lg-4">
+                                            <div class="animation_item zoomInLeft delay@(i) pb-30">
+                                                <img alt="Images BOPACK" src="@Url.Content("~/Resources/images/png/nutriva/ancien/" + i + ".png")" class="img-responsive" />
+                                            </div>
+                                        </div>
+                                    }
+                                </div>
+
+                                @*
+                                <div class="dnn_layout pt-60 pb-60 animation scaleUp">
+                                    <div class="content_mid clearfix">
+                                        <div data-pagination="false" class="carousel carousel_1">
+                                        @for (int i = 1; i <= ViewBag.Images_Nutriva; i++)
+                                        {
+                                            <div class="item">
+                                                <a href="#" target="blank">
+                                                    <img alt="" src="@Url.Content("~/Resources/images/png/nutriva/" + i +".png")" />
+                                                </a>
+                                            </div>
+                                        }
+                                        </div>
+                                    </div>
+                                </div>
+                                *@
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End_Module_28351 -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ./Nutriva -->
+
+<!-- Fricon -->
+<div class="DnnModule DnnModule-DNN_HTML DnnModule-28289">
+    <a name="28289"></a>
+    <div class="White">
+        <div id="dnn_ctr28289_ContentPane" class="contentpane">
+            <!-- Start_Module_28289 -->
+            <div id="dnn_ctr28289_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+                <div id="dnn_ctr28289_HtmlModule_lblContent" class="Normal">
+                    <div class="backgroundImage1">
+                        <div class="dnn_layout pt-60 animation scaleUp">
+                            <div class="content_mid clearfix">
+                                <h3 class="title_style_1 pb-20">
+                                    <span>FRICON</span>
+                                </h3>
+                            </div>
+                        </div>
+                        <ul class="images_list animation clearfix animated">
+                            @for (int i = 1; i <= ViewBag.Images_Fricon; i++)
+                            {
+                                <li class="animation_item zoomInLeft delay@(i)">
+                                    <a target="_blank" href="#">
+                                        <img alt="" src="@Url.Content("~/Resources/images/png/fricon/" + i + ".png")">
+                                    </a>
+                                </li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- End_Module_28289 -->
+        </div>
+    </div>
+</div>
+<!-- ./Fricon -->
+
+<!-- Quinas -->
+<div id="dnn_Full_Screen_PaneH" class="Full_Screen_PaneH">
+    <div class="DnnModule DnnModule-DNN_HTML DnnModule-28351">
+        <a name="28351"></a>
+        <div class="White">
+            <div id="dnn_ctr28351_ContentPane" class="contentpane">
+                <!-- Start_Module_28351 -->
+                <div id="dnn_ctr28351_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+                    <div id="dnn_ctr28351_HtmlModule_lblContent" class="Normal">
+                        <div class="backgroundImage9">
+                            <div class="dnn_layout pt-60 animation scaleUp">
+                                <div class="content_mid clearfix">
+                                    <h3 class="title_style_3 pb-20" style="color: white;">
+                                        QUINAS
+                                    </h3>
+                                    <p>Pour les amateurs de l'art de boire une bonne bière</p>
+                                </div>
+                            </div>
+
+                            <div class="dnn_layout pb-30">
+
+                                <div class="row">
+                                    @for (int i = 1; i <= ViewBag.Images_Quinas; i++)
+                                    {
+                                        <div class="col-xs-6 col-lg-3">
+                                            <div class="animation_item zoomInLeft delay@(i) pb-30">
+                                                <img alt="Images BOPACK" src="@Url.Content("~/Resources/images/png/quinas/" + i + ".png")" class="img-responsive" />
+                                                <div>
+                                                    @if (i == 1)
+                                                    {
+                                                        <p class="lead" style="font-weight: bold;">La Mini</p>
+                                                        <i>25 Cl</i><br />
+                                                        <p>La bière qui descend glaciale, pour les gorgées les plus rafraichissantes!</p>
+                                                    }
+                                                    else if (i == 2)
+                                                    {
+                                                        <p class="lead" style="font-weight: bold;">L'original</p>
+                                                        <i>33 Cl</i><br />
+                                                        <p>Pour ceux qui aiment prolonger le bon goût d'une bière très froide!</p>
+                                                    }
+                                                    else if (i == 3)
+                                                    {
+                                                        <p class="lead" style="font-weight: bold;">Aux villes</p>
+                                                        <i>50 Cl</i><br />
+                                                        <p>Pour les amateurs de bières différentes et uniques!</p>
+                                                    }
+                                                    else
+                                                    {
+                                                        <p class="lead" style="font-weight: bold;">La première édition</p>
+                                                        <i>75 Cl</i><br />
+                                                        <p>Une bière forte et robuste avec une identité propre!</p>
+                                                    }
+                                                </div>
+                                            </div>
+                                        </div>
+                                    }
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End_Module_28351 -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ./Quinas -->
+
+<!-- Licor -->
+<div class="DnnModule DnnModule-DNN_HTML DnnModule-30736">
+    <a name="30736"></a>
+    <div class="White">
+        <div id="dnn_ctr30736_ContentPane" class="contentpane">
+            <!-- Start_Module_30736 -->
+            <div id="dnn_ctr30736_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+                <div id="dnn_ctr30736_HtmlModule_lblContent" class="Normal">
+                    <div class="dnn_layout pt-60 animation scaleUp">
+                        <div class="content_mid clearfix">
+                            <h3 class="title_style_1 pb-20">
+                                <span>LICOR</span>
+                            </h3>
+                        </div>
+                    </div>
+                    <div class="isotope_grid isotope_grid4 animation fadeInUp">
+
+                        <div class="loading">
+                            <div class="loading-container container1">
+                                <div class="circle1"></div>
+                                <div class="circle2"></div>
+                                <div class="circle3"></div>
+                                <div class="circle4"></div>
+                            </div>
+                            <div class="loading-container container2">
+                                <div class="circle1"></div>
+                                <div class="circle2"></div>
+                                <div class="circle3"></div>
+                                <div class="circle4"></div>
+                            </div>
+                            <div class="loading-container container3">
+                                <div class="circle1"></div>
+                                <div class="circle2"></div>
+                                <div class="circle3"></div>
+                                <div class="circle4"></div>
+                            </div>
+                        </div>
+
+                        <div class="isotope_main" data-min-width="389">
+                            @for (int i = 1; i <= ViewBag.Images_Licor; i++)
+                            {
+                                <div class="isotope_item" @((i == 1) ? Html.Raw("data-zoom=\"2\"") : null)>
+                                    <a href="#" target="_blank">
+                                        <div class="photo_box icon_tag_push img_zoom">
+                                            <div class="pic_box">
+                                                <img alt="Image BOPACK" src="@Url.Content("~/Resources/images/jpg/licor/" + i + ".jpg")" />
+                                            </div>
+                                            <div class="ico"><span class="fa fa-link ico_right"></span></div>
+                                        </div>
+                                    </a>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End_Module_30736 -->
+        </div>
+    </div>
+</div>
+<!-- ./Licor -->
+
+<!-- Palandin -->
+<div class="DnnModule DnnModule-DNN_HTML DnnModule-28348">
+    <a name="28348"></a>
+    <div class="White">
+        <div id="dnn_ctr28348_ContentPane" class="contentpane">
+            <!-- Start_Module_28348 -->
+            <div id="dnn_ctr28348_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+                <div id="dnn_ctr28348_HtmlModule_lblContent" class="Normal">
+                    <div class="backgroundImage1">
+                        <div class="dnn_layout pt-60  animation scaleUp">
+                            <div class="content_mid clearfix">
+                                <h3 class="title_style_1 pb-20">
+                                    <span>PALANDIN</span>
+                                </h3>
+                                <p>
+                                    La volonté de condimenter le <b>Portugal</b> et le reste du monde.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="isotope_grid isotope_grid1">
+
+                            <div class="isotope_group  animation scaleUp">
+                                <a data-filter="*" href="#">Tous</a>
+                                <a data-filter=".ket-chup" class="active" href="#" id="palandin-ketchup">KETCHUP</a>
+                                <a data-filter=".mayonaise" href="#">MAYONNAISE</a>
+                                <a data-filter=".moutarde" href="#">MOUTARDE</a>
+                                <a data-filter=".restaurant" href="#">RESTAURANT</a>
+                                <a data-filter=".sauce" href="#">SAUCE</a>
+                                <a data-filter=".sauce-piquante" href="#">SAUCE PIQUANTE</a>
+                                <a data-filter=".vinaigre" href="#">VINAIGRE</a>
+                            </div>
+
+                            <div class="loading  animation scaleUp">
+                                <div class="loading-container container1">
+                                    <div class="circle1"></div>
+                                    <div class="circle2"></div>
+                                    <div class="circle3"></div>
+                                    <div class="circle4"></div>
+                                </div>
+                                <div class="loading-container container2">
+                                    <div class="circle1"></div>
+                                    <div class="circle2"></div>
+                                    <div class="circle3"></div>
+                                    <div class="circle4"></div>
+                                </div>
+                                <div class="loading-container container3">
+                                    <div class="circle1"></div>
+                                    <div class="circle2"></div>
+                                    <div class="circle3"></div>
+                                    <div class="circle4"></div>
+                                </div>
+                            </div>
+
+                            <div data-min-width="381" class="isotope_main animation">
+                                <!-- ket-chup -->
+                                @{ int delay = 1; }
+                                @for (int i = 1; i <= ViewBag.Images_Paladin.ket_chup; i++)
+                                {
+                                    <div class="isotope_item ket-chup">
+                                        <div class="photo animation_item scaleUp delay@((delay == 10 ? delay = 1 : delay++))">
+                                            <a href="#">
+                                                <img alt="" src="@Url.Content("~/Resources/images/png/palandin/ket-chup/" + i + ".png")" />
+                                            </a>
+                                            <span class="angle"></span>
+                                        </div>
+                                    </div>
+                                }
+                                <!-- ./ket-chup -->
+                                <!-- mayonaise -->
+                                @for (int i = 1; i <= ViewBag.Images_Paladin.mayonaise; i++)
+                                {
+                                    <div class="isotope_item mayonaise">
+                                        <div class="photo animation_item scaleUp delay@((delay == 10 ? delay = 1 : delay++))">
+                                            <a href="#">
+                                                <img alt="" src="@Url.Content("~/Resources/images/png/palandin/mayonaise/" + i + ".png")" />
+                                            </a>
+                                            <span class="angle"></span>
+                                        </div>
+                                    </div>
+                                }
+                                <!-- ./mayonaise -->
+                                <!-- moutarde -->
+                                @for (int i = 1; i <= ViewBag.Images_Paladin.moutarde; i++)
+                                {
+                                    <div class="isotope_item moutarde">
+                                        <div class="photo animation_item scaleUp delay@((delay == 10 ? delay = 1 : delay++))">
+                                            <a href="#">
+                                                <img alt="" src="@Url.Content("~/Resources/images/png/palandin/moutarde/" + i + ".png")" />
+                                            </a>
+                                            <span class="angle"></span>
+                                        </div>
+                                    </div>
+                                }
+                                <!-- ./moutarde -->
+                                <!-- restaurant -->
+                                @for (int i = 1; i <= ViewBag.Images_Paladin.restaurant; i++)
+                                {
+                                    <div class="isotope_item restaurant">
+                                        <div class="photo animation_item scaleUp delay@((delay == 10 ? delay = 1 : delay++))">
+                                            <a href="#">
+                                                <img alt="" src="@Url.Content("~/Resources/images/png/palandin/restaurant/" + i + ".png")" />
+                                            </a>
+                                            <span class="angle"></span>
+                                        </div>
+                                    </div>
+                                }
+                                <!-- ./restaurant -->
+                                <!-- sauce -->
+                                @for (int i = 1; i <= ViewBag.Images_Paladin.sauce; i++)
+                                {
+                                    <div class="isotope_item sauce">
+                                        <div class="photo animation_item scaleUp delay@((delay == 10 ? delay = 1 : delay++))">
+                                            <a href="#">
+                                                <img alt="" src="@Url.Content("~/Resources/images/png/palandin/sauce/" + i + ".png")" />
+                                            </a>
+                                            <span class="angle"></span>
+                                        </div>
+                                    </div>
+                                }
+                                <!-- ./sauce -->
+                                <!-- sauce-piquante -->
+                                @for (int i = 1; i <= ViewBag.Images_Paladin.sauce_piquante; i++)
+                                {
+                                    <div class="isotope_item sauce-piquante">
+                                        <div class="photo animation_item scaleUp delay@((delay == 10 ? delay = 1 : delay++))">
+                                            <a href="#">
+                                                <img alt="" src="@Url.Content("~/Resources/images/png/palandin/sauce-piquante/" + i + ".png")" />
+                                            </a>
+                                            <span class="angle"></span>
+                                        </div>
+                                    </div>
+                                }
+                                <!-- ./sauce-piquante -->
+                                <!-- vinaigre -->
+                                @for (int i = 1; i <= ViewBag.Images_Paladin.vinaigre; i++)
+                                {
+                                    <div class="isotope_item vinaigre">
+                                        <div class="photo animation_item scaleUp delay@((delay == 10 ? delay = 1 : delay++))">
+                                            <a href="#">
+                                                <img alt="" src="@Url.Content("~/Resources/images/png/palandin/vinaigre/" + i + ".png")" />
+                                            </a>
+                                            <span class="angle"></span>
+                                        </div>
+                                    </div>
+                                }
+                                <!-- ./vinaigre -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End_Module_28348 -->
+        </div>
+    </div>
+</div>
+<!-- ./Palandin -->

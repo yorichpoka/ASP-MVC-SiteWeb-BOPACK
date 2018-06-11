@@ -1,0 +1,1069 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\DOCUMENTS\BOPACK\Site</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Data/Keyword.en.txt">
+      <publishTime>05/05/2018 16:45:41</publishTime>
+    </File>
+    <File Include="App_Data/Keyword.fr.txt">
+      <publishTime>04/14/2018 14:31:46</publishTime>
+    </File>
+    <File Include="App_Data/Log.txt">
+      <publishTime>05/12/2018 15:29:30</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>02/22/2013 08:43:40</publishTime>
+    </File>
+    <File Include="bin/BOPACKSite.dll">
+      <publishTime>05/12/2018 17:52:20</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>03/02/2015 09:32:26</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>03/02/2015 09:32:26</publishTime>
+    </File>
+    <File Include="bin/fr/BOPACKSite.resources.dll">
+      <publishTime>05/12/2018 17:52:20</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>03/08/2017 19:26:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>04/03/2015 18:07:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>04/03/2015 18:07:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>04/03/2015 18:07:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 03:06:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>02/13/2015 13:16:30</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>02/13/2015 13:16:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>02/13/2015 13:16:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>02/13/2015 13:16:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
+      <publishTime>02/13/2015 13:16:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Google.dll">
+      <publishTime>02/13/2015 13:16:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.MicrosoftAccount.dll">
+      <publishTime>02/13/2015 13:16:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>02/13/2015 13:16:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Twitter.dll">
+      <publishTime>02/13/2015 13:16:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>04/23/2012 16:23:58</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>08/03/2014 21:33:56</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>11/27/2012 13:00:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 21:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 21:19:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>01/28/2015 04:02:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>02/11/2014 15:26:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>01/28/2015 04:02:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>09/10/2013 18:28:38</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>04/14/2018 13:11:30</publishTime>
+    </File>
+    <File Include="Fonts/fontawesome-webfont.eot">
+      <publishTime>04/14/2018 19:24:35</publishTime>
+    </File>
+    <File Include="Fonts/fontawesome-webfont.svg">
+      <publishTime>04/14/2018 19:31:45</publishTime>
+    </File>
+    <File Include="Fonts/fontawesome-webfont.ttf">
+      <publishTime>04/14/2018 19:21:24</publishTime>
+    </File>
+    <File Include="Fonts/fontawesome-webfont.woff">
+      <publishTime>04/14/2018 19:20:01</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/13/2018 17:54:02</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/13/2018 18:27:12</publishTime>
+    </File>
+    <File Include="Resources/autres/WebResource.axd">
+      <publishTime>04/14/2018 16:03:03</publishTime>
+    </File>
+    <File Include="Resources/css/bpstyle.css">
+      <publishTime>04/17/2018 15:28:48</publishTime>
+    </File>
+    <File Include="Resources/css/comingsoon.css">
+      <publishTime>04/17/2018 16:10:15</publishTime>
+    </File>
+    <File Include="Resources/css/portal.css">
+      <publishTime>04/14/2018 14:56:17</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/Admin/Authentication/images/socialLoginbuttons-icons.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/Admin/Authentication/images/socialLoginbuttons-repeatingbg.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/Admin/Authentication/module.css">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/images/dummy.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/js/jquery.themepunch.revolution.merge.js">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/font/revicons90c6.eot">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/font/revicons90c6.svg">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/font/revicons90c6.ttf">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/font/revicons90c6.woff">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/arrowleft.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/arrowright.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/arrow_left.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/arrow_left2.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/arrow_right.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/arrow_right2.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/boxed_bgtile.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/bullet.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/bullets.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/bullets2.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/bullet_boxed.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/coloredbg.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/gradient/g30.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/gradient/g40.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/gridtile.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/gridtile_3x3.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/gridtile_3x3_white.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/gridtile_white.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/large_left.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/large_right.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/loader.gif">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/navigdots.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/navigdots_bgtile.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/shadow1.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/shadow2.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/shadow3.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/small_left.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/small_left_boxed.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/small_right.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/small_right_boxed.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/images/timer.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_LayerGallery/Effects/Effect_01_SliderRevolution3D/Themes/defaultskin/Style.css">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_PowerForms/Effects/Effect_01_Responsive/Themes/Theme_Responsive_20067-home2/images/calendar.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_PowerForms/Effects/Effect_01_Responsive/Themes/Theme_Responsive_20067-home2/Style.css">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_PowerForms/Resource/images/no.png">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_PowerForms/Resource/js/jquery.inputDefault.js">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_PowerForms/Resource/js/jquery.validationEngine-en.js">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_PowerForms/Resource/js/jquery.validationEngine.js">
+      <publishTime>04/14/2018 14:46:37</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_PowerForms/Resource/js/sisyphus.min.js">
+      <publishTime>04/14/2018 14:46:38</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_PowerForms/Resource/plugins/jquery-datepick/jquery.datepick.css">
+      <publishTime>04/14/2018 14:46:38</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_PowerForms/Resource/plugins/jquery-datepick/jquery.datepick.lang.js">
+      <publishTime>04/14/2018 14:46:38</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_PowerForms/Resource/plugins/jquery-datepick/jquery.datepick.min.js">
+      <publishTime>04/14/2018 14:46:38</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_PowerForms/Resource/plugins/jquery-datepick/jquery.plugin.min.js">
+      <publishTime>04/14/2018 14:46:38</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_PowerForms/Resource/plugins/tinymce/tinymce.min.js">
+      <publishTime>04/14/2018 14:46:38</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_xPlugin/Resource/css/jquery.mmenud.css">
+      <publishTime>04/14/2018 14:46:38</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/DNNGo_xPlugin/Resource/js/dnngo-xplugind.js">
+      <publishTime>04/14/2018 14:46:38</publishTime>
+    </File>
+    <File Include="Resources/DesktopModules/HTML/module.css">
+      <publishTime>04/14/2018 14:46:38</publishTime>
+    </File>
+    <File Include="Resources/images/gif/loading.gif">
+      <publishTime>04/14/2018 18:38:29</publishTime>
+    </File>
+    <File Include="Resources/images/ico/favicon.ico">
+      <publishTime>04/14/2018 13:12:15</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/banner6_1.jpg">
+      <publishTime>05/12/2018 15:05:27</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/banner6_2.jpg">
+      <publishTime>05/12/2018 15:27:54</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/isotope_01-one.jpg">
+      <publishTime>04/14/2018 16:56:40</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/isotope_01_1.jpg">
+      <publishTime>04/16/2018 09:54:04</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/isotope_02-one.jpg">
+      <publishTime>04/14/2018 16:56:40</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/isotope_02_1.jpg">
+      <publishTime>04/16/2018 09:54:04</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/isotope_03-one.jpg">
+      <publishTime>04/14/2018 16:56:40</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/isotope_03_1.jpg">
+      <publishTime>04/16/2018 09:54:04</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/isotope_04-one.jpg">
+      <publishTime>04/14/2018 16:56:40</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/isotope_04_1.jpg">
+      <publishTime>04/16/2018 09:54:04</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/isotope_05-one.jpg">
+      <publishTime>04/14/2018 16:56:40</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/isotope_05_1.jpg">
+      <publishTime>04/16/2018 09:54:04</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/isotope_06-one.jpg">
+      <publishTime>04/14/2018 16:56:40</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/isotope_06_1.jpg">
+      <publishTime>04/16/2018 09:54:04</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/isotope_07-one.jpg">
+      <publishTime>04/14/2018 16:56:40</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/isotope_07_1.jpg">
+      <publishTime>04/16/2018 09:54:04</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/isotope_08-one.jpg">
+      <publishTime>04/14/2018 16:56:40</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/isotope_08.jpg">
+      <publishTime>04/16/2018 09:54:04</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/isotope_08_1.jpg">
+      <publishTime>04/16/2018 09:54:04</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/isotope_09-one.jpg">
+      <publishTime>04/14/2018 16:56:40</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/isotope_09_1.jpg">
+      <publishTime>04/16/2018 09:54:04</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/isotope_10-one.jpg">
+      <publishTime>04/14/2018 16:56:40</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/isotope_10_1.jpg">
+      <publishTime>04/16/2018 09:54:19</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/isotope_11-one.jpg">
+      <publishTime>04/14/2018 16:56:40</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/isotope_11_1.jpg">
+      <publishTime>04/16/2018 09:54:30</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/licor/1.jpg">
+      <publishTime>04/16/2018 12:06:04</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/licor/2.jpg">
+      <publishTime>04/16/2018 12:06:04</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/licor/3.jpg">
+      <publishTime>04/16/2018 12:06:04</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/licor/4.jpg">
+      <publishTime>04/16/2018 12:06:04</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/licor/5.jpg">
+      <publishTime>05/11/2018 18:34:17</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/OG_Shared.jpg">
+      <publishTime>04/14/2018 14:10:02</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/pic_10_1.jpg">
+      <publishTime>04/15/2018 15:07:43</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/pic_10_small.jpg">
+      <publishTime>04/15/2018 15:13:04</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/pic_11_1.jpg">
+      <publishTime>04/15/2018 15:08:26</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/pic_11_small.jpg">
+      <publishTime>04/15/2018 15:13:43</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/pic_12_1.jpg">
+      <publishTime>04/15/2018 15:08:53</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/pic_12_small.jpg">
+      <publishTime>04/15/2018 15:14:07</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/pic_13_1.jpg">
+      <publishTime>04/15/2018 15:09:28</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/pic_13_small.jpg">
+      <publishTime>04/15/2018 15:14:28</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/pic_14_1.jpg">
+      <publishTime>04/15/2018 15:10:05</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/pic_14_small.jpg">
+      <publishTime>04/15/2018 15:15:16</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/pic_15_1.jpg">
+      <publishTime>04/14/2018 20:40:33</publishTime>
+    </File>
+    <File Include="Resources/images/jpg/pic_15_small.jpg">
+      <publishTime>04/14/2018 18:18:26</publishTime>
+    </File>
+    <File Include="Resources/images/png/arrow-right-white.png">
+      <publishTime>04/14/2018 18:47:11</publishTime>
+    </File>
+    <File Include="Resources/images/png/banner6_1_1.png">
+      <publishTime>05/12/2018 15:21:03</publishTime>
+    </File>
+    <File Include="Resources/images/png/banner6_2_1.png">
+      <publishTime>05/12/2018 15:00:40</publishTime>
+    </File>
+    <File Include="Resources/images/png/checkbox.png">
+      <publishTime>04/14/2018 18:22:06</publishTime>
+    </File>
+    <File Include="Resources/images/png/clearText.png">
+      <publishTime>04/14/2018 18:50:15</publishTime>
+    </File>
+    <File Include="Resources/images/png/closeBtn.png">
+      <publishTime>04/14/2018 18:25:53</publishTime>
+    </File>
+    <File Include="Resources/images/png/dnnSpinnerDownArrow.png">
+      <publishTime>04/14/2018 18:24:20</publishTime>
+    </File>
+    <File Include="Resources/images/png/dnnSpinnerUpArrow.png">
+      <publishTime>04/14/2018 18:23:27</publishTime>
+    </File>
+    <File Include="Resources/images/png/down-icn.png">
+      <publishTime>04/14/2018 18:41:59</publishTime>
+    </File>
+    <File Include="Resources/images/png/dummy.png">
+      <publishTime>04/14/2018 16:52:37</publishTime>
+    </File>
+    <File Include="Resources/images/png/eip_edit.png">
+      <publishTime>04/14/2018 18:45:24</publishTime>
+    </File>
+    <File Include="Resources/images/png/eip_save.png">
+      <publishTime>04/14/2018 18:46:02</publishTime>
+    </File>
+    <File Include="Resources/images/png/eip_title_cancel.png">
+      <publishTime>04/14/2018 18:44:41</publishTime>
+    </File>
+    <File Include="Resources/images/png/eip_title_save.png">
+      <publishTime>04/14/2018 18:46:45</publishTime>
+    </File>
+    <File Include="Resources/images/png/eip_toolbar.png">
+      <publishTime>04/14/2018 18:43:48</publishTime>
+    </File>
+    <File Include="Resources/images/png/fricon/1.png">
+      <publishTime>05/11/2018 16:32:33</publishTime>
+    </File>
+    <File Include="Resources/images/png/fricon/2.png">
+      <publishTime>05/11/2018 16:32:46</publishTime>
+    </File>
+    <File Include="Resources/images/png/fricon/3.png">
+      <publishTime>05/11/2018 16:32:58</publishTime>
+    </File>
+    <File Include="Resources/images/png/fricon/4.png">
+      <publishTime>05/11/2018 16:33:13</publishTime>
+    </File>
+    <File Include="Resources/images/png/fricon/5.png">
+      <publishTime>05/11/2018 16:45:09</publishTime>
+    </File>
+    <File Include="Resources/images/png/fricon/6.png">
+      <publishTime>05/11/2018 16:45:20</publishTime>
+    </File>
+    <File Include="Resources/images/png/fricon/7.png">
+      <publishTime>05/11/2018 18:05:24</publishTime>
+    </File>
+    <File Include="Resources/images/png/fricon/8.png">
+      <publishTime>05/11/2018 18:05:52</publishTime>
+    </File>
+    <File Include="Resources/images/png/fricon/9.png">
+      <publishTime>05/11/2018 18:06:15</publishTime>
+    </File>
+    <File Include="Resources/images/png/helpI-icn-grey.png">
+      <publishTime>04/14/2018 18:21:20</publishTime>
+    </File>
+    <File Include="Resources/images/png/InstallWizardBG.png">
+      <publishTime>04/14/2018 18:39:14</publishTime>
+    </File>
+    <File Include="Resources/images/png/link_img_00.png">
+      <publishTime>04/16/2018 00:11:42</publishTime>
+    </File>
+    <File Include="Resources/images/png/link_img_21.png">
+      <publishTime>04/14/2018 16:47:02</publishTime>
+    </File>
+    <File Include="Resources/images/png/link_img_22.png">
+      <publishTime>04/14/2018 16:47:02</publishTime>
+    </File>
+    <File Include="Resources/images/png/link_img_23.png">
+      <publishTime>04/14/2018 16:47:02</publishTime>
+    </File>
+    <File Include="Resources/images/png/link_img_24.png">
+      <publishTime>04/14/2018 16:47:02</publishTime>
+    </File>
+    <File Include="Resources/images/png/link_img_25.png">
+      <publishTime>04/14/2018 16:47:02</publishTime>
+    </File>
+    <File Include="Resources/images/png/link_img_26.png">
+      <publishTime>04/14/2018 16:47:02</publishTime>
+    </File>
+    <File Include="Resources/images/png/link_img_27.png">
+      <publishTime>04/14/2018 16:47:02</publishTime>
+    </File>
+    <File Include="Resources/images/png/link_img_28.png">
+      <publishTime>04/14/2018 16:47:02</publishTime>
+    </File>
+    <File Include="Resources/images/png/link_img_29.png">
+      <publishTime>04/14/2018 16:47:02</publishTime>
+    </File>
+    <File Include="Resources/images/png/link_img_30.png">
+      <publishTime>04/14/2018 16:47:03</publishTime>
+    </File>
+    <File Include="Resources/images/png/Logo.png">
+      <publishTime>04/15/2018 01:07:53</publishTime>
+    </File>
+    <File Include="Resources/images/png/mapicon01.png">
+      <publishTime>04/14/2018 20:39:01</publishTime>
+    </File>
+    <File Include="Resources/images/png/modal-resize-icn.png">
+      <publishTime>04/14/2018 18:28:08</publishTime>
+    </File>
+    <File Include="Resources/images/png/nutriva/1.png">
+      <publishTime>05/11/2018 20:18:22</publishTime>
+    </File>
+    <File Include="Resources/images/png/nutriva/2.png">
+      <publishTime>05/11/2018 20:18:39</publishTime>
+    </File>
+    <File Include="Resources/images/png/nutriva/3.png">
+      <publishTime>05/11/2018 20:18:48</publishTime>
+    </File>
+    <File Include="Resources/images/png/nutriva/4.png">
+      <publishTime>05/11/2018 20:18:58</publishTime>
+    </File>
+    <File Include="Resources/images/png/nutriva/ancien/1.png">
+      <publishTime>05/12/2018 00:27:06</publishTime>
+    </File>
+    <File Include="Resources/images/png/nutriva/ancien/2.png">
+      <publishTime>05/11/2018 19:05:14</publishTime>
+    </File>
+    <File Include="Resources/images/png/nutriva/ancien/3.png">
+      <publishTime>05/11/2018 19:05:23</publishTime>
+    </File>
+    <File Include="Resources/images/png/nutriva/ancien/4.png">
+      <publishTime>05/11/2018 19:05:37</publishTime>
+    </File>
+    <File Include="Resources/images/png/palandin/ket-chup/1.png">
+      <publishTime>04/16/2018 11:31:11</publishTime>
+    </File>
+    <File Include="Resources/images/png/palandin/ket-chup/2.png">
+      <publishTime>04/16/2018 11:31:11</publishTime>
+    </File>
+    <File Include="Resources/images/png/palandin/ket-chup/3.png">
+      <publishTime>04/16/2018 11:31:11</publishTime>
+    </File>
+    <File Include="Resources/images/png/palandin/mayonaise/1.png">
+      <publishTime>04/16/2018 11:30:50</publishTime>
+    </File>
+    <File Include="Resources/images/png/palandin/mayonaise/2.png">
+      <publishTime>04/16/2018 11:30:51</publishTime>
+    </File>
+    <File Include="Resources/images/png/palandin/mayonaise/3.png">
+      <publishTime>04/16/2018 11:30:49</publishTime>
+    </File>
+    <File Include="Resources/images/png/palandin/moutarde/1.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Resources/images/png/palandin/moutarde/2.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Resources/images/png/palandin/moutarde/3.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Resources/images/png/palandin/restaurant/1.png">
+      <publishTime>04/16/2018 11:39:10</publishTime>
+    </File>
+    <File Include="Resources/images/png/palandin/restaurant/2.png">
+      <publishTime>04/16/2018 11:39:10</publishTime>
+    </File>
+    <File Include="Resources/images/png/palandin/restaurant/3.png">
+      <publishTime>04/16/2018 11:39:10</publishTime>
+    </File>
+    <File Include="Resources/images/png/palandin/restaurant/4.png">
+      <publishTime>04/16/2018 11:39:10</publishTime>
+    </File>
+    <File Include="Resources/images/png/palandin/sauce-piquante/1.png">
+      <publishTime>04/16/2018 11:47:13</publishTime>
+    </File>
+    <File Include="Resources/images/png/palandin/sauce-piquante/2.png">
+      <publishTime>04/16/2018 11:47:13</publishTime>
+    </File>
+    <File Include="Resources/images/png/palandin/sauce-piquante/3.png">
+      <publishTime>04/16/2018 11:47:13</publishTime>
+    </File>
+    <File Include="Resources/images/png/palandin/sauce-piquante/4.png">
+      <publishTime>04/16/2018 11:47:13</publishTime>
+    </File>
+    <File Include="Resources/images/png/palandin/sauce-piquante/5.png">
+      <publishTime>04/16/2018 11:47:13</publishTime>
+    </File>
+    <File Include="Resources/images/png/palandin/sauce/1.png">
+      <publishTime>04/16/2018 11:43:38</publishTime>
+    </File>
+    <File Include="Resources/images/png/palandin/sauce/2.png">
+      <publishTime>04/16/2018 11:43:38</publishTime>
+    </File>
+    <File Include="Resources/images/png/palandin/sauce/3.png">
+      <publishTime>04/16/2018 11:43:38</publishTime>
+    </File>
+    <File Include="Resources/images/png/palandin/vinaigre/1.png">
+      <publishTime>04/16/2018 11:50:51</publishTime>
+    </File>
+    <File Include="Resources/images/png/palandin/vinaigre/2.png">
+      <publishTime>04/16/2018 11:50:51</publishTime>
+    </File>
+    <File Include="Resources/images/png/palandin/vinaigre/3.png">
+      <publishTime>04/16/2018 11:50:51</publishTime>
+    </File>
+    <File Include="Resources/images/png/palandin/vinaigre/4.png">
+      <publishTime>04/16/2018 11:50:51</publishTime>
+    </File>
+    <File Include="Resources/images/png/pic_25.png">
+      <publishTime>04/16/2018 00:26:20</publishTime>
+    </File>
+    <File Include="Resources/images/png/pin-icn.png">
+      <publishTime>04/14/2018 18:20:27</publishTime>
+    </File>
+    <File Include="Resources/images/png/quinas/1.png">
+      <publishTime>05/12/2018 08:40:17</publishTime>
+    </File>
+    <File Include="Resources/images/png/quinas/2.png">
+      <publishTime>05/12/2018 08:40:47</publishTime>
+    </File>
+    <File Include="Resources/images/png/quinas/3.png">
+      <publishTime>05/12/2018 08:40:57</publishTime>
+    </File>
+    <File Include="Resources/images/png/quinas/4.png">
+      <publishTime>05/12/2018 08:41:08</publishTime>
+    </File>
+    <File Include="Resources/images/png/radiobutton.png">
+      <publishTime>04/14/2018 18:22:46</publishTime>
+    </File>
+    <File Include="Resources/images/png/resizeBtn.png">
+      <publishTime>04/14/2018 18:26:51</publishTime>
+    </File>
+    <File Include="Resources/images/png/up-icn.png">
+      <publishTime>04/14/2018 18:42:50</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Containers/20067-UnlimitedColorsPack-049/container.css">
+      <publishTime>05/05/2018 18:24:30</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Containers/Gravity/container.css">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/default.css">
+      <publishTime>04/14/2018 18:47:26</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/css/bootstrap.css">
+      <publishTime>05/05/2018 18:24:30</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/css/shortcodes.css">
+      <publishTime>05/05/2018 18:24:30</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/arrow_1.png">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/backgroundImage_aboutus.jpg">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/backgroundImage_aboutus02.jpg">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/backgroundImage_pricing.jpg">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/backgroundImage_team.jpg">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/backgroundImage_team02.jpg">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/backgroundImage_time.jpg">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/backgroundImage_time02.jpg">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/bar_bg_2.png">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/Body_bg_2.png">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/but_bg.html">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/ComingSoonPic_1.jpg">
+      <publishTime>04/17/2018 16:16:35</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/dividers_3.png">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/dividers_6.jpg">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/foot_bg_2.jpg">
+      <publishTime>04/16/2018 00:15:40</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/gohome_ico.png">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/grabbing.html">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/gray.svg">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/img_bg_10.jpg">
+      <publishTime>05/11/2018 19:51:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/img_bg_11.png">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/img_bg_15.jpg">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/img_bg_18.png">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/img_bg_19.jpg">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/img_bg_2.jpg">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/img_bg_20.jpg">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/img_bg_21.jpg">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/img_bg_22.jpg">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/img_bg_23.jpg">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/img_bg_24.jpg">
+      <publishTime>04/16/2018 00:17:14</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/img_bg_25.jpg">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/img_bg_26.jpg">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/img_bg_27.jpg">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/img_bg_28.jpg">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/img_bg_29.jpg">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/img_bg_7.jpg">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/img_bg_8.jpg">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/img_bg_9.jpg">
+      <publishTime>05/12/2018 08:52:26</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/line_1.png">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/loaded_list_bg.png">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/Loading.gif">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/percentage_bg.png">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/Service01.png">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/Service01_30.png">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/service_bg.jpg">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/shade.png">
+      <publishTime>04/17/2018 15:47:28</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/images/xplugin.png">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/OnePage.css">
+      <publishTime>05/05/2018 18:24:30</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/pacestyle/barber-shop.css">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/scripts/comingsoon.js">
+      <publishTime>04/17/2018 17:11:59</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/scripts/custom.js">
+      <publishTime>05/12/2018 13:42:24</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/scripts/pace.min.js">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/scripts/script.js">
+      <publishTime>05/07/2018 10:41:53</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/skin.css">
+      <publishTime>05/05/2018 18:24:30</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/20067-UnlimitedColorsPack-049/Thumbnails/loader1.gif">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/Gravity/bootstrap/css/bootstrap.min.css">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/Gravity/bootstrap/img/glyphicons-halflings-white.png">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/Gravity/bootstrap/js/bootstrap.min.js">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/Gravity/images/arrow.png">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/Gravity/images/copyright-background.png">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/Gravity/images/globe.png">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/Gravity/images/icon-btn-sm-circle-arrow.png">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/Gravity/images/icon_bin.png">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/Gravity/images/icon_message.png">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/Gravity/images/icon_notification.png">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/Gravity/images/left-arrow.png">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/Gravity/images/pagination.png">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/Gravity/images/right-arrow.png">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/Gravity/images/search.png">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/Gravity/js/doubletaptogo.min.js">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/Gravity/js/scripts.js">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Portals/_default/Skins/Gravity/skin.css">
+      <publishTime>04/14/2018 14:40:36</publishTime>
+    </File>
+    <File Include="Resources/Search/SearchSkinObjectPreview.css">
+      <publishTime>04/14/2018 18:50:31</publishTime>
+    </File>
+    <File Include="Resources/Search/SearchSkinObjectPreview.js">
+      <publishTime>04/14/2018 14:44:22</publishTime>
+    </File>
+    <File Include="Scripts/bopackscript.js">
+      <publishTime>05/12/2018 15:29:00</publishTime>
+    </File>
+    <File Include="Scripts/comingsoon.2.js">
+      <publishTime>04/17/2018 15:15:17</publishTime>
+    </File>
+    <File Include="Scripts/comingsoon.js">
+      <publishTime>04/17/2018 16:27:51</publishTime>
+    </File>
+    <File Include="Scripts/dnn.js">
+      <publishTime>04/14/2018 15:32:45</publishTime>
+    </File>
+    <File Include="Scripts/dnn.modalpopup.js">
+      <publishTime>04/14/2018 15:32:45</publishTime>
+    </File>
+    <File Include="Scripts/dnn.servicesframework.js">
+      <publishTime>04/14/2018 15:32:45</publishTime>
+    </File>
+    <File Include="Scripts/dnncore.js">
+      <publishTime>04/14/2018 15:32:45</publishTime>
+    </File>
+    <File Include="Scripts/libraries/jQuery-Migrate/01_02_01/jquery-migrate.js">
+      <publishTime>04/17/2018 16:27:51</publishTime>
+    </File>
+    <File Include="Scripts/libraries/jQuery-UI/01_10_03/jquery-ui.js">
+      <publishTime>04/14/2018 15:14:17</publishTime>
+    </File>
+    <File Include="Scripts/libraries/jQuery/01_09_01/jquery.js">
+      <publishTime>04/14/2018 15:14:17</publishTime>
+    </File>
+    <File Include="Scripts/roll_menu.js">
+      <publishTime>05/07/2018 10:30:13</publishTime>
+    </File>
+    <File Include="Scripts/Shared/scripts/dnn.jquery.js">
+      <publishTime>04/14/2018 15:57:32</publishTime>
+    </File>
+    <File Include="Scripts/Shared/scripts/initWidgets.js">
+      <publishTime>04/14/2018 15:57:32</publishTime>
+    </File>
+    <File Include="Scripts/Shared/scripts/jquery/jquery.hoverIntent.min.js">
+      <publishTime>04/14/2018 15:57:32</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>05/12/2018 13:12:48</publishTime>
+    </File>
+    <File Include="Views/Home/Erreur.cshtml">
+      <publishTime>05/12/2018 17:12:53</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>05/12/2018 09:07:24</publishTime>
+    </File>
+    <File Include="Views/Home/Index/_Acceuil.cshtml">
+      <publishTime>05/10/2018 15:24:36</publishTime>
+    </File>
+    <File Include="Views/Home/Index/_Clients.cshtml">
+      <publishTime>05/12/2018 09:07:24</publishTime>
+    </File>
+    <File Include="Views/Home/Index/_Contact.cshtml">
+      <publishTime>05/11/2018 15:19:12</publishTime>
+    </File>
+    <File Include="Views/Home/Index/_Entete.cshtml">
+      <publishTime>05/12/2018 14:51:24</publishTime>
+    </File>
+    <File Include="Views/Home/Index/_Maps.cshtml">
+      <publishTime>05/11/2018 14:05:02</publishTime>
+    </File>
+    <File Include="Views/Home/Index/_Partenaires.cshtml">
+      <publishTime>05/12/2018 09:19:50</publishTime>
+    </File>
+    <File Include="Views/Home/Index/_Qui_sommes_nous.cshtml">
+      <publishTime>05/09/2018 18:56:49</publishTime>
+    </File>
+    <File Include="Views/Home/Maintenance.cshtml">
+      <publishTime>05/05/2018 17:15:17</publishTime>
+    </File>
+    <File Include="Views/Home/Maintenance/_Head.cshtml">
+      <publishTime>04/17/2018 14:32:57</publishTime>
+    </File>
+    <File Include="Views/Shared/_Cookies.cshtml">
+      <publishTime>04/14/2018 11:13:24</publishTime>
+    </File>
+    <File Include="Views/Shared/_Footer.cshtml">
+      <publishTime>05/11/2018 14:47:48</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>05/12/2018 14:51:24</publishTime>
+    </File>
+    <File Include="Views/Shared/_LayoutMaintenance.cshtml">
+      <publishTime>05/12/2018 14:51:24</publishTime>
+    </File>
+    <File Include="Views/Shared/_MetaOG.cshtml">
+      <publishTime>05/05/2018 17:02:59</publishTime>
+    </File>
+    <File Include="Views/Shared/_Modals.cshtml">
+      <publishTime>05/12/2018 14:51:24</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>04/13/2018 17:54:02</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>04/13/2018 17:54:02</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/12/2018 17:38:37</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

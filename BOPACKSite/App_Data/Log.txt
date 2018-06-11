@@ -1,0 +1,1292 @@
+﻿14/04/2018 19:05:18.136 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+14/04/2018 19:05:20.699 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:2cdcdiuegwo0mxmgivfxm1fl} 
+-----------------------
+14/04/2018 19:10:02.968 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+14/04/2018 19:10:04.026 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:amyrlnd4m155x30jk0lcrjjt} 
+-----------------------
+14/04/2018 19:46:23.952 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+14/04/2018 19:46:24.465 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:zniz4rdr2b1ditc2aiar1yac} 
+-----------------------
+14/04/2018 19:58:08.906 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+14/04/2018 19:58:09.893 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:dptcj1iapaoot0aqabjxdyc0} 
+-----------------------
+14/04/2018 20:22:09.337 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+14/04/2018 20:22:12.876 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:hcfacdx1dhr01xy1x2ishtbu} 
+-----------------------
+14/04/2018 20:55:46.927 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+14/04/2018 20:55:48.181 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:czcqe2kzhobomwfnmzprudf0} 
+-----------------------
+14/04/2018 21:14:28.455 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+14/04/2018 21:14:43.715 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:ssjd5yoflej5xtgwyctcqcwa} 
+-----------------------
+15/04/2018 00:23:07.042 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+15/04/2018 00:23:07.651 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:fy3jgd1gb0pxzfpmadedw1e2} 
+-----------------------
+15/04/2018 00:25:08.712 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+15/04/2018 00:25:16.834 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:g1jcuf3bdmtkecw5jdqmwmph} 
+-----------------------
+15/04/2018 00:34:31.118 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+15/04/2018 00:34:39.309 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:pmmwmrfcd3lkmskzjme3ciwc} 
+-----------------------
+15/04/2018 00:40:19.000 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+15/04/2018 00:40:26.386 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:twyybfy3b4tomgms1iuekuvr} 
+-----------------------
+15/04/2018 00:45:57.492 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+15/04/2018 00:46:08.749 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:a5vlzdigz0qhs0r3z53yca5a} 
+-----------------------
+15/04/2018 00:53:13.380 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+15/04/2018 00:53:32.038 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:qdmaprfxe5jgmu3n2ncnbbk0} 
+-----------------------
+15/04/2018 00:57:46.529 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+15/04/2018 00:57:47.274 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:ggblkcrrmftienjftbtkhgur} 
+-----------------------
+15/04/2018 01:11:20.961 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+15/04/2018 01:11:32.130 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:adrqw3lmfhbewpi4aoql4hjm} 
+-----------------------
+15/04/2018 01:20:33.623 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+15/04/2018 01:20:50.694 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:2syzmz0if01dgx14pn0fi2gt} 
+-----------------------
+15/04/2018 13:27:59.419 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+15/04/2018 13:28:09.413 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:4eapbo4y34lbym3fwmvpayye} 
+-----------------------
+15/04/2018 15:17:52.541 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+15/04/2018 15:18:15.315 | INFO | [9] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:hsdqncuzwu2c5b4y3olmfdft} 
+-----------------------
+15/04/2018 16:55:01.306 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+15/04/2018 16:55:01.562 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:iqqvjwk0dy41i1y2oh3q5pop} 
+-----------------------
+15/04/2018 16:57:44.544 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+15/04/2018 16:57:44.762 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:3wrdbgyytntrsofp20qqymb3} 
+-----------------------
+15/04/2018 22:06:07.042 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+15/04/2018 22:06:09.364 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:y55meyysmnu2v4v0ivwuqk5c} 
+-----------------------
+16/04/2018 00:00:24.171 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+16/04/2018 00:00:26.025 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:uah1fpnceikfrmt2kdfbidaa} 
+-----------------------
+16/04/2018 00:13:41.555 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+16/04/2018 00:13:46.142 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:vtfmnrys4xcyxon25m5qfilx} 
+-----------------------
+16/04/2018 00:39:01.474 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+16/04/2018 00:39:02.121 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:nbvtxumnihaqqcceohgk3nsr} 
+-----------------------
+16/04/2018 00:54:15.896 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+16/04/2018 00:54:28.955 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:rsc2rh31s20jv11bfav0vmc0} 
+-----------------------
+16/04/2018 01:01:02.109 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+16/04/2018 01:01:14.371 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:1hbnj1x5zsa5zyjp2e3awxo5} 
+-----------------------
+16/04/2018 01:11:03.863 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+16/04/2018 01:11:12.337 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:55aiaywfystgct2hideyqafb} 
+-----------------------
+16/04/2018 01:15:11.053 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+16/04/2018 01:15:15.994 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:appvgz5mjrinzorb0qv3c5lc} 
+-----------------------
+16/04/2018 01:53:22.058 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+16/04/2018 01:53:22.889 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:appvgz5mjrinzorb0qv3c5lc} 
+-----------------------
+16/04/2018 02:57:14.877 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+16/04/2018 02:57:21.814 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:ngjfowxx3j3kxqlybhcb0yl2} 
+-----------------------
+16/04/2018 02:57:46.161 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:vgwoosunrgcywvmxkji0kw2o} 
+-----------------------
+16/04/2018 03:09:07.282 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+16/04/2018 03:09:08.148 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:5rylujmq2ypw40cyey115qbe} 
+-----------------------
+16/04/2018 03:36:22.672 | INFO | [17] | BOPACKSite.MvcApplication.Session_OnEnd | Fin session: {session:5rylujmq2ypw40cyey115qbe} 
+-----------------------
+16/04/2018 08:43:42.823 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+16/04/2018 08:43:49.066 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:5rylujmq2ypw40cyey115qbe} 
+-----------------------
+16/04/2018 08:43:59.056 | INFO | [6] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:5rylujmq2ypw40cyey115qbe} 
+-----------------------
+16/04/2018 09:00:09.255 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+16/04/2018 09:00:16.255 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:5rylujmq2ypw40cyey115qbe} 
+-----------------------
+16/04/2018 09:01:05.756 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:5rylujmq2ypw40cyey115qbe} 
+-----------------------
+16/04/2018 09:46:05.296 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+16/04/2018 09:46:09.211 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:5rylujmq2ypw40cyey115qbe} 
+-----------------------
+16/04/2018 09:46:20.574 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:5rylujmq2ypw40cyey115qbe} 
+-----------------------
+16/04/2018 09:56:15.826 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+16/04/2018 09:56:16.425 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:5rylujmq2ypw40cyey115qbe} 
+-----------------------
+16/04/2018 10:01:19.661 | INFO | [11] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:5rylujmq2ypw40cyey115qbe} 
+-----------------------
+16/04/2018 10:38:18.114 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+16/04/2018 10:38:18.426 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:5rylujmq2ypw40cyey115qbe} 
+-----------------------
+16/04/2018 10:38:31.531 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:5rylujmq2ypw40cyey115qbe} 
+-----------------------
+16/04/2018 10:59:20.495 | INFO | [21] | BOPACKSite.MvcApplication.Session_OnEnd | Fin session: {session:5rylujmq2ypw40cyey115qbe} 
+-----------------------
+16/04/2018 12:12:44.274 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+16/04/2018 12:12:45.076 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:5rylujmq2ypw40cyey115qbe} 
+-----------------------
+16/04/2018 12:13:06.005 | INFO | [6] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:5rylujmq2ypw40cyey115qbe} 
+-----------------------
+16/04/2018 12:14:15.943 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+16/04/2018 12:14:24.774 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:5rylujmq2ypw40cyey115qbe} 
+-----------------------
+17/04/2018 15:44:00.376 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+17/04/2018 15:44:03.165 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:s04pexnk0xd1lfft0pjpcjel} 
+-----------------------
+17/04/2018 16:12:00.522 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+17/04/2018 16:12:02.261 | INFO | [4] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:ocgt5gfuqrnnqyxpyfyurduh} 
+-----------------------
+17/04/2018 16:12:12.404 | INFO | [4] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:ppsybsouhnwiuf40h4a5tobl} 
+-----------------------
+17/04/2018 16:19:17.385 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+17/04/2018 16:19:17.698 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:oo0quhucwgw43fzybyo15hv1} 
+-----------------------
+17/04/2018 16:25:06.725 | INFO | [8] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:4kpg5ysap2qe20dwzlpj2ljq} 
+-----------------------
+17/04/2018 17:13:33.608 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+17/04/2018 17:13:37.700 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:110iitp2k5djun5lbc44nmzs} 
+-----------------------
+17/04/2018 17:16:26.379 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+17/04/2018 17:16:26.793 | INFO | [6] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:110iitp2k5djun5lbc44nmzs} 
+-----------------------
+17/04/2018 17:16:26.800 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:110iitp2k5djun5lbc44nmzs} 
+-----------------------
+05/05/2018 17:16:14.667 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+05/05/2018 17:16:15.968 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:4el4ovdtikla3ae344hfimk2} 
+-----------------------
+05/05/2018 17:16:42.500 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:g2lo1pd5kvu4gbhdvjoletru} 
+-----------------------
+05/05/2018 17:16:42.833 | ERROR | [5] | BOPACKSite.Controllers.BPController.ExecuteCore | System.Globalization.CultureNotFoundException: La culture n'est pas prise en charge.
+Nom du paramètre : name
+Anglais n'est pas un identificateur de culture valide.
+   à System.Globalization.CultureInfo..ctor(String name, Boolean useUserOverride)
+   à System.Globalization.CultureInfo..ctor(String name)
+   à BOPACKSite.Culture.CultureHelper.set_CurrentCulture(Int32 value) dans E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Culture\CultureHelper.cs:ligne 38
+   à BOPACKSite.Controllers.BPController.ExecuteCore() dans E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Controllers\BPController.cs:ligne 96 
+-----------------------
+05/05/2018 17:29:11.992 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+05/05/2018 17:29:12.249 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:mhly4rr0kqtw03styx42cptq} 
+-----------------------
+05/05/2018 17:29:13.233 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+05/05/2018 17:29:36.548 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+05/05/2018 17:42:36.155 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+05/05/2018 17:42:39.864 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:5ncnmybvmoyxuf2oedvkirm5} 
+-----------------------
+05/05/2018 17:42:41.082 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+05/05/2018 17:58:58.317 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+05/05/2018 18:05:06.380 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+05/05/2018 18:07:01.694 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+05/05/2018 18:11:00.511 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+05/05/2018 18:11:06.592 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:j3qlckz3ljzvmbrcvxlnqxsq} 
+-----------------------
+05/05/2018 18:11:16.432 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+05/05/2018 18:12:24.151 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+05/05/2018 18:13:03.778 | ERROR | [6] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+05/05/2018 18:19:29.325 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+05/05/2018 18:19:33.924 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:u1khhxqcjorzu1cv0xdwzo2j} 
+-----------------------
+05/05/2018 18:19:44.894 | INFO | [6] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:3ml2tti4iib0jnwbl2zureoi} 
+-----------------------
+05/05/2018 18:19:45.569 | ERROR | [6] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+05/05/2018 18:25:34.398 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+05/05/2018 18:25:44.721 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:3ws1g1bb2vtshorctsuejz2w} 
+-----------------------
+05/05/2018 18:25:48.981 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+05/05/2018 18:34:23.131 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+05/05/2018 18:34:37.874 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:z5pnusifedoaqe2m1mla4dc5} 
+-----------------------
+05/05/2018 18:37:33.660 | INFO | [6] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:bjrlisccgdxz5nko4uf1twc1} 
+-----------------------
+05/05/2018 18:37:35.260 | ERROR | [6] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+07/05/2018 09:31:41.711 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+07/05/2018 09:31:42.473 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:x3bfzydeq5hj02edp13dhzjh} 
+-----------------------
+07/05/2018 09:31:43.560 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+07/05/2018 10:04:34.711 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+07/05/2018 10:04:35.187 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:x3bfzydeq5hj02edp13dhzjh} 
+-----------------------
+07/05/2018 10:05:03.121 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+07/05/2018 10:12:48.024 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+07/05/2018 10:12:50.687 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:u2tz54bfpmjozd0jpnb4hinh} 
+-----------------------
+07/05/2018 10:12:51.708 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+07/05/2018 10:31:29.335 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+07/05/2018 10:31:29.762 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:v1jm0fmg4farow1reorwx5f1} 
+-----------------------
+07/05/2018 10:31:30.177 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+07/05/2018 10:51:59.332 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+07/05/2018 10:51:59.884 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:i2m2x30301cjbsqxbvvwiqsz} 
+-----------------------
+07/05/2018 10:52:00.505 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+09/05/2018 15:36:06.966 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+09/05/2018 15:36:08.316 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:vwj0rnpvitexxmrklyqqhavc} 
+-----------------------
+09/05/2018 15:36:09.318 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+09/05/2018 15:41:12.683 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+09/05/2018 15:41:14.511 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:uxix1hp4pamze5eskcaolhan} 
+-----------------------
+09/05/2018 15:41:15.336 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+09/05/2018 15:44:32.526 | ERROR | [9] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+09/05/2018 17:20:32.071 | INFO | [10] | BOPACKSite.MvcApplication.Session_OnEnd | Fin session: {session:uxix1hp4pamze5eskcaolhan} 
+-----------------------
+09/05/2018 18:21:17.141 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+09/05/2018 18:21:17.410 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:ywxsrtjx3rloospuzpqgqbfu} 
+-----------------------
+09/05/2018 18:21:17.792 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+09/05/2018 19:39:36.515 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+09/05/2018 19:39:36.943 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:hvhuka2geyf4irpbuxwcnskc} 
+-----------------------
+09/05/2018 19:39:37.450 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+09/05/2018 19:45:58.727 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+09/05/2018 19:45:58.982 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:hvhuka2geyf4irpbuxwcnskc} 
+-----------------------
+09/05/2018 19:45:59.260 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+09/05/2018 19:59:54.777 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+09/05/2018 19:59:55.199 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:hvhuka2geyf4irpbuxwcnskc} 
+-----------------------
+09/05/2018 19:59:55.728 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+09/05/2018 20:20:20.390 | INFO | [22] | BOPACKSite.MvcApplication.Session_OnEnd | Fin session: {session:hvhuka2geyf4irpbuxwcnskc} 
+-----------------------
+10/05/2018 15:26:00.579 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+10/05/2018 15:26:03.027 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:hvhuka2geyf4irpbuxwcnskc} 
+-----------------------
+10/05/2018 15:26:04.174 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 13:47:18.019 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 13:47:18.432 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:x1apbm21kvggsi0n4mptewaq} 
+-----------------------
+11/05/2018 13:47:19.019 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 13:48:47.244 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 13:48:47.464 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:x1apbm21kvggsi0n4mptewaq} 
+-----------------------
+11/05/2018 13:48:47.796 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 13:56:18.168 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 13:56:18.437 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:x1apbm21kvggsi0n4mptewaq} 
+-----------------------
+11/05/2018 13:56:18.689 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 13:57:53.141 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 13:57:56.365 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:x1apbm21kvggsi0n4mptewaq} 
+-----------------------
+11/05/2018 13:57:56.898 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 13:58:23.082 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 13:58:24.546 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:hqaokouoaz1ito4qjcz5zzto} 
+-----------------------
+11/05/2018 13:58:25.093 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 14:02:22.062 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 14:02:25.046 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:hqaokouoaz1ito4qjcz5zzto} 
+-----------------------
+11/05/2018 14:02:26.374 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 14:05:13.178 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 14:05:16.845 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:hqaokouoaz1ito4qjcz5zzto} 
+-----------------------
+11/05/2018 14:05:17.348 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 14:10:46.104 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 14:10:48.236 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:hqaokouoaz1ito4qjcz5zzto} 
+-----------------------
+11/05/2018 14:10:48.773 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 14:11:34.645 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 14:11:36.813 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:hqaokouoaz1ito4qjcz5zzto} 
+-----------------------
+11/05/2018 14:11:37.422 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 14:12:36.822 | ERROR | [5] | BOPACKSite.Controllers.BPController.ExecuteCore | System.Web.HttpException (0x80004005): A public action method 'Index' was not found on controller 'BOPACKSite.Controllers.HomeController'.
+   at System.Web.Mvc.Controller.HandleUnknownAction(String actionName)
+   at System.Web.Mvc.Controller.ExecuteCore()
+   at BOPACKSite.Controllers.BPController.ExecuteCore() in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Controllers\BPController.cs:line 101 
+-----------------------
+11/05/2018 14:13:43.795 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 14:13:44.908 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:hqaokouoaz1ito4qjcz5zzto} 
+-----------------------
+11/05/2018 14:13:45.370 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 14:15:26.411 | ERROR | [6] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 14:19:40.448 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 14:19:42.176 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:hqaokouoaz1ito4qjcz5zzto} 
+-----------------------
+11/05/2018 14:19:42.797 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 14:21:51.269 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 14:21:59.027 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:hqaokouoaz1ito4qjcz5zzto} 
+-----------------------
+11/05/2018 14:22:00.287 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 14:30:18.923 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 14:30:22.724 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:hqaokouoaz1ito4qjcz5zzto} 
+-----------------------
+11/05/2018 14:30:23.551 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 14:48:21.037 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 14:48:23.935 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:ko5wa5y1z22dghtds5k5vhc5} 
+-----------------------
+11/05/2018 14:48:25.161 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 14:56:10.774 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 14:56:12.170 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:ko5wa5y1z22dghtds5k5vhc5} 
+-----------------------
+11/05/2018 14:56:13.182 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 15:16:03.231 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 15:16:05.975 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:ko5wa5y1z22dghtds5k5vhc5} 
+-----------------------
+11/05/2018 15:16:06.532 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 15:19:20.976 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 15:19:23.413 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:zszvqsn0zeefco0p2p1hsnkn} 
+-----------------------
+11/05/2018 15:19:23.945 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 15:46:02.250 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 15:46:02.739 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:zszvqsn0zeefco0p2p1hsnkn} 
+-----------------------
+11/05/2018 15:46:03.105 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 16:13:45.639 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 16:13:57.081 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:zszvqsn0zeefco0p2p1hsnkn} 
+-----------------------
+11/05/2018 16:13:58.830 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 16:57:23.288 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 16:57:24.713 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:lkkomeygejk0zzewzqmyph4q} 
+-----------------------
+11/05/2018 16:57:26.290 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 16:59:36.565 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 16:59:39.433 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:lkkomeygejk0zzewzqmyph4q} 
+-----------------------
+11/05/2018 16:59:40.802 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 18:17:55.251 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 18:17:56.531 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:lkkomeygejk0zzewzqmyph4q} 
+-----------------------
+11/05/2018 18:17:57.305 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 18:19:49.629 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 18:19:49.963 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:lkkomeygejk0zzewzqmyph4q} 
+-----------------------
+11/05/2018 18:19:49.963 | INFO | [6] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:lkkomeygejk0zzewzqmyph4q} 
+-----------------------
+11/05/2018 18:19:50.322 | ERROR | [6] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 18:19:50.323 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 18:19:56.137 | INFO | [7] | BOPACKSite.MvcApplication.Session_OnEnd | Fin session: {session:lkkomeygejk0zzewzqmyph4q} 
+-----------------------
+11/05/2018 18:22:50.586 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 18:22:54.311 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:lkkomeygejk0zzewzqmyph4q} 
+-----------------------
+11/05/2018 18:22:55.318 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 18:32:04.570 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 18:32:07.408 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:lkkomeygejk0zzewzqmyph4q} 
+-----------------------
+11/05/2018 18:32:08.078 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 18:34:24.809 | ERROR | [8] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 18:54:40.509 | INFO | [27] | BOPACKSite.MvcApplication.Session_OnEnd | Fin session: {session:lkkomeygejk0zzewzqmyph4q} 
+-----------------------
+11/05/2018 19:07:29.188 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 19:07:29.624 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:lkkomeygejk0zzewzqmyph4q} 
+-----------------------
+11/05/2018 19:07:30.088 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 19:16:42.308 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 19:16:42.628 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:lkkomeygejk0zzewzqmyph4q} 
+-----------------------
+11/05/2018 19:16:43.052 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 19:42:23.242 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 19:42:25.967 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:ooz3tzwkg50jkalxrkf1bn0m} 
+-----------------------
+11/05/2018 19:42:26.880 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 19:48:05.123 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 19:48:07.375 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:e1e3b43feahj24hfl3irzeni} 
+-----------------------
+11/05/2018 19:48:08.488 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 20:06:44.604 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 20:06:48.100 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:e1e3b43feahj24hfl3irzeni} 
+-----------------------
+11/05/2018 20:06:49.651 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 20:20:13.167 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+11/05/2018 20:20:13.809 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:e1e3b43feahj24hfl3irzeni} 
+-----------------------
+11/05/2018 20:20:14.737 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 20:20:47.819 | ERROR | [6] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+11/05/2018 23:06:10.159 | INFO | [7] | BOPACKSite.MvcApplication.Session_OnEnd | Fin session: {session:e1e3b43feahj24hfl3irzeni} 
+-----------------------
+12/05/2018 00:17:25.549 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+12/05/2018 00:17:26.150 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:e1e3b43feahj24hfl3irzeni} 
+-----------------------
+12/05/2018 00:17:26.587 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+12/05/2018 00:33:27.981 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+12/05/2018 00:33:31.536 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:u3an3xvqbwvwnrozjbuecneq} 
+-----------------------
+12/05/2018 00:33:32.715 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+12/05/2018 00:36:31.060 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+12/05/2018 00:36:34.212 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:sx1fyugant0h5ijpl12d4khg} 
+-----------------------
+12/05/2018 00:36:35.977 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+12/05/2018 00:38:33.440 | ERROR | [6] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+12/05/2018 00:44:40.698 | ERROR | [14] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+12/05/2018 01:04:40.929 | INFO | [30] | BOPACKSite.MvcApplication.Session_OnEnd | Fin session: {session:sx1fyugant0h5ijpl12d4khg} 
+-----------------------
+12/05/2018 08:43:57.245 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+12/05/2018 08:43:59.586 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:sx1fyugant0h5ijpl12d4khg} 
+-----------------------
+12/05/2018 08:44:01.030 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+12/05/2018 08:53:03.474 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+12/05/2018 08:53:06.129 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:sx1fyugant0h5ijpl12d4khg} 
+-----------------------
+12/05/2018 08:53:07.599 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+12/05/2018 09:02:05.542 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+12/05/2018 09:02:09.813 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:sx1fyugant0h5ijpl12d4khg} 
+-----------------------
+12/05/2018 09:02:11.608 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+12/05/2018 09:12:18.579 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+12/05/2018 09:12:22.341 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:sx1fyugant0h5ijpl12d4khg} 
+-----------------------
+12/05/2018 09:12:23.777 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+12/05/2018 09:20:09.847 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+12/05/2018 09:20:13.290 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:sx1fyugant0h5ijpl12d4khg} 
+-----------------------
+12/05/2018 09:20:13.988 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+12/05/2018 09:22:44.263 | ERROR | [11] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+12/05/2018 09:30:26.249 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+12/05/2018 09:30:35.210 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:sx1fyugant0h5ijpl12d4khg} 
+-----------------------
+12/05/2018 09:30:38.936 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+12/05/2018 09:51:41.894 | INFO | [25] | BOPACKSite.MvcApplication.Session_OnEnd | Fin session: {session:sx1fyugant0h5ijpl12d4khg} 
+-----------------------
+12/05/2018 13:44:17.781 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+12/05/2018 13:44:18.337 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:drdpz5f55lf5zm5usxvu0auf} 
+-----------------------
+12/05/2018 13:44:19.890 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+12/05/2018 14:52:07.825 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+12/05/2018 14:52:08.485 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:usyycp1b2dpa51cyrdszd2ly} 
+-----------------------
+12/05/2018 14:52:09.245 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+12/05/2018 15:21:30.323 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+12/05/2018 15:21:33.242 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:kgcbsjizcb5fechx3ko5ad2z} 
+-----------------------
+12/05/2018 15:21:34.626 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
+12/05/2018 15:29:16.261 | INFO | [1] | BOPACKSite.MvcApplication.Application_Start | Démarrage de l'application 
+-----------------------
+12/05/2018 15:29:19.024 | INFO | [5] | BOPACKSite.MvcApplication.Session_OnStart | Début session: {session:xhy4tv5enhvj0ajg4y240y0c} 
+-----------------------
+12/05/2018 15:29:20.156 | ERROR | [5] | BOPACKSite.Models.Static.BPClass.GetKeyword | System.IO.FileNotFoundException: Could not find file 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'.
+File name: 'E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\App_Data\Keyword.txt'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllLines(String path, Encoding encoding)
+   at System.IO.File.ReadAllLines(String path)
+   at BOPACKSite.Models.Static.BPClass.GetKeyword(String url_file) in E:\DOCUMENTS\BOPACK\Projets\BOPACKSite\BOPACKSite\Models\Static\BPClass.cs:line 21 
+-----------------------
