@@ -13,10 +13,12 @@ namespace BOPACKSite.Controllers
         public ActionResult Index(string lang)
         {
             // -- Charger les paramètres OG sur la page -- //
-            Charger_Parametres_OG("acceuil", "BOPACK Bussiness - Partnership");
+            Charger_Parametres_OG("BOPACK Bussiness - Partnership");
 
             return View();
         }
+
+        protected override void Parametre_Page(string page) { }
         #endregion
     }
 }

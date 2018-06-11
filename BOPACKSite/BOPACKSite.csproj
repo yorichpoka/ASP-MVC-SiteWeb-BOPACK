@@ -307,6 +307,7 @@
     <Content Include="Resources\images\png\arrow-right-white.png" />
     <Content Include="Resources\images\png\banner6_1_1.png" />
     <Content Include="Resources\images\png\banner6_2_1.png" />
+    <Content Include="Resources\images\png\calendar.png" />
     <Content Include="Resources\images\png\checkbox.png" />
     <Content Include="Resources\images\png\clearText.png" />
     <Content Include="Resources\images\png\closeBtn.png" />
@@ -385,6 +386,7 @@
     <Content Include="Resources\images\png\quinas\4.png" />
     <Content Include="Resources\images\png\radiobutton.png" />
     <Content Include="Resources\images\png\resizeBtn.png" />
+    <Content Include="Resources\images\png\shade.png" />
     <Content Include="Resources\images\png\up-icn.png" />
     <Content Include="Resources\Portals\_default\Containers\20067-UnlimitedColorsPack-049\container.css" />
     <Content Include="Resources\Portals\_default\Containers\Gravity\container.css" />
@@ -573,6 +575,7 @@
     <Content Include="Views\Shared\_Modals.cshtml" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Fonts\Raleway\Raleway.ttf" />
     <None Include="Properties\PublishProfiles\release2.pubxml" />
     <Content Include="Views\Home\Erreur.cshtml" />
   </ItemGroup>
