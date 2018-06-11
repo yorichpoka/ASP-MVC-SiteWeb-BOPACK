@@ -21,5 +21,6 @@ namespace BOPACKSite.Models.Static
         public static string MAPS_LATITUDE          { get { return System.Configuration.ConfigurationManager.AppSettings["MAPS_LATITUDE"]; } }
         public static string MAPS_LONGITUDE         { get { return System.Configuration.ConfigurationManager.AppSettings["MAPS_LONGITUDE"]; } }
         public static string ENCRYPTION_KEY_AES     { get { return System.Configuration.ConfigurationManager.AppSettings["ENCRYPTION_KEY_AES"]; } }
+        public static string DELAI_MAINTENANCE      { get { return System.Configuration.ConfigurationManager.AppSettings["DELAI_MAINTENANCE"]; } }
     }
 }

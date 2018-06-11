@@ -129,13 +129,11 @@
         $(document).ready(
             function () {
                 $("#countdown").countdown({
-                    date: "30 April 2018 00:00:00",
+                    date: "@ViewBag.DELAI_MAINTENANCE",
                     format: "on",
                     time_end: "off"
                 },
-                function () {
-                    // callback function
-                }
+                function () { }
             );
         });
         
@@ -240,6 +238,7 @@
         <tr>
             <td>
                 <div id="dnn_BottomPane" class="BottomPane">
+
                     <div class="DnnModule DnnModule-DNN_HTML DnnModule-28312">
 
                         <a name="28312"></a>
@@ -258,6 +257,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="DnnModule DnnModule-DNNGoPowerForms DnnModule-28313">
 
                         <a name="28313"></a>
@@ -308,13 +308,6 @@
                                             <a href="@ViewBag.Contact.Facebook" target="_blank">
                                                 <span class="fa fa-facebook"></span>
                                             </a>
-                                            @*
-                                            <a href="#"><span class="fa fa-renren"></span></a>
-                                            <a href="#"><span class="fa fa-google-plus"></span></a>
-                                            <a href="#"><span class="fa fa-apple"></span></a>
-                                            <a href="#"><span class="fa fa-twitter"></span></a>
-                                            <a href="#"><span class="fa fa-tumblr"></span></a>
-                                            *@
                                         </div>
                                     </div>
                                 </div>
